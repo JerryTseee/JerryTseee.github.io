@@ -27,9 +27,9 @@ author:
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
- # googlescholar    : 
+  googlescholar    : 
   email            : "crazytse@connect.hku.hk"
-#  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
