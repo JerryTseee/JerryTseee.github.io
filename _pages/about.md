@@ -50,25 +50,31 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 # ✨ Projects and Extracurricular Activities
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project 2024</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Driver Alert and Facial Recognition System](https://github.com/JerryTseee/Driver_State_Alert_System.git)
-
-**Wangpok Tse**
 
 - Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained DNN model. And a head-eye position index and identity recognition were designed in the system to identify dangerous driving behaviors.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Team Project</div><img src='images/UE.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Team Project 2024</div><img src='images/UE.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unreal Engine Automation Part](https://github.com/JerryTseee/UE_MetahumanToAnimSequence.git)
 
-**Wangpok Tse**, Leo Ho
-
 - This python script can fully achieve the automation pipeline from video to metahuman face to animation sequence json file.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Part-time Volunteer 2023 - Present</div><img src='images/hakka.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hong Kong Hakka Associations](https://hkhakka.com/)
+
+- Helped to organized and supported Hakka traditional events and cultural promotions in the Greater Bay Area. And represented Hong Kong Hakka student ambassador to participate many cultural exchange programs in mainland China. Assisted local underprivileged families by visiting and distributing food during festivals
+
 </div>
 </div>
 
