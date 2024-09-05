@@ -46,7 +46,9 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 # 💻 Internships
 - *2024.05 - 2024.08*, I worked as a **research assistant** in the **HKU Computer Graphics and Visualization Lab**, supervised by **Prof. Taku Komura**. My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
-- *2023.12 - 2024.02*, I worked as a **data scientist intern** in the **SmartAge Intelligence Limited**. My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of WordPress product website.
+- *2023.12 - 2024.02*, I worked as a **data scientist intern** in the **SmartAge Intelligence Limited, Hong Kong**. My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of WordPress product website.
+
+# 💻 Projects and Extracurricular Activities
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
@@ -55,8 +57,6 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 - *2022* Hong Kong Hakka Students Scholarship
 - *2021* Hong Kong Hakka Students Scholarship
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
-
-# 💻 Projects and Extracurricular Activities
 
 # 🔥 Fun Facts About Me
 - I am also interested in Fencing (HKU Epee fencing team), photography, drawing, playing basketball and listening to rap music (88rising is the best 🔥)
