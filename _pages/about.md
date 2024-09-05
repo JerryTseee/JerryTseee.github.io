@@ -36,13 +36,11 @@ My research interest includes machine learning, computer vision, digital humans,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios (2025 AAAI)](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios (2025 AAAI)](https://openreview.net/)
 
 Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 - The research proposes a multi-model dataset dubbed InterAct and uses a machine learning method to estimate interactive face expressions and body motions of two persons from their audio alone.
-</div>
-</div>
 
 # 💻 Internships
 - *2024.05 - 2024.08*, I worked as a **research assistant** in the **HKU Computer Graphics and Visualization Lab**, supervised by **Prof. Taku Komura**. My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
@@ -55,18 +53,18 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 [Driver Alert and Facial Recognition System](https://github.com/JerryTseee/Driver_State_Alert_System.git)
 
-- Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained DNN model. And a head-eye position index and identity recognition were designed in the system to identify dangerous driving behaviors.
-</div>
-</div>
+**Wangpok Tse**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project</div><img src='images/UE.jpeg' alt="sym" width="100%"></div></div>
+- Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained DNN model. And a head-eye position index and identity recognition were designed in the system to identify dangerous driving behaviors.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Team Project</div><img src='images/UE.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unreal Engine Automation Part](https://github.com/JerryTseee/UE_MetahumanToAnimSequence.git)
 
+**Wangpok Tse**, Leo Ho
+
 - This python script can fully achieve the automation pipeline from video to metahuman face to animation sequence json file.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
