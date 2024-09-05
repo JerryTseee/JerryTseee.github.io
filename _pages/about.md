@@ -45,7 +45,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 </div>
 
 # 💻 Internships
-- *2024.05 - 2024.08*, I worked as a **research assistant** in the **HKU Computer Graphics and Visualization Lab**. My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
+- *2024.05 - 2024.08*, I worked as a **research assistant** in the **HKU Computer Graphics and Visualization Lab**, supervised by **Prof. Taku Komura**. My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
 - *2023.12 - 2024.02*, I worked as a **data scientist intern** in the **SmartAge Intelligence Limited**. My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of WordPress product website.
 
 # 🎖 Honors and Awards
