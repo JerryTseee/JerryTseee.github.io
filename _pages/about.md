@@ -56,6 +56,8 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 - *2021* Hong Kong Hakka Students Scholarship
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
 
+# 💻 Projects and Extracurricular Activities
+
 # 🔥 Fun Facts About Me
 - I am also interested in Fencing (HKU Epee fencing team), photography, drawing, playing basketball and listening to rap music (88rising is the best 🔥)
 - I can speak three languages, Mandarin, Cantonese, and English.
