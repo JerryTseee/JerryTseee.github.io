@@ -41,6 +41,8 @@ My research interest includes machine learning, computer vision, digital humans,
 Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 - The research proposes a multi-model dataset dubbed InterAct and uses a machine learning method to estimate interactive face expressions and body motions of two persons from their audio alone.
+</div>
+</div>
 
 # 💻 Internships
 - *2024.05 - 2024.08*, I worked as a **research assistant** in the **HKU Computer Graphics and Visualization Lab**, supervised by **Prof. Taku Komura**. My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
