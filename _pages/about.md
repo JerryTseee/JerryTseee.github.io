@@ -50,21 +50,21 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 # ✨ Projects and Extracurricular Activities
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project</div><img src='images/DriverAlertSystem.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Driver Alert and Facial Recognition System](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Driver Alert and Facial Recognition System](https://github.com/JerryTseee/Driver_State_Alert_System.git)
 
 - Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained DNN model. And a head-eye position index and identity recognition were designed in the system to identify dangerous driving behaviors.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project</div><img src='images/UE.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios (2025 AAAI)](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Unreal Engine Automation Part](https://github.com/JerryTseee/UE_MetahumanToAnimSequence.git)
 
-- The research proposes a multi-model dataset dubbed InterAct and uses a machine learning method to estimate interactive face expressions and body motions of two persons from their audio alone.
+- This python script can fully achieve the automation pipeline from video to metahuman face to animation sequence json file.
 </div>
 </div>
 
