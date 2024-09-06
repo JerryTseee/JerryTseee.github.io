@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🐧 About Me
-I am TSE Wang Pok (nickname: Jerry). Currently I am pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**. In addition, I also have an undergraduate exchange experience at the **CentraleSupelec, University of Paris-Saclay**.
+- I am TSE Wang Pok (nickname: Jerry). Currently I am pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**. In addition, I also have an undergraduate exchange experience at the **CentraleSupelec, University of Paris-Saclay**.
 
-My research interest includes machine learning, computer vision, digital humans, and data science. I also have a strong enthusiasm for exploring various topics in the realm of computer science.
+- My research interest includes machine learning, computer vision, digital humans, and data science. I also have a strong enthusiasm for exploring various topics in the realm of computer science.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I just finished my research assistant intern in the HKU Computer Graphics and Visualization Lab, supervised by Prof. Taku Komura.
