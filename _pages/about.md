@@ -20,7 +20,7 @@ redirect_from:
 # 🐧 About Me
 - I am TSE Wang Pok (nickname: Jerry). Currently I am pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**. In addition, I also have an undergraduate exchange experience at the **CentraleSupélec, University of Paris-Saclay**.
 
-- My research interest includes machine learning, computer vision, digital humans, and data science. I also have a strong enthusiasm for exploring various topics in the realm of computer science.
+- My research interest includes machine learning, computer vision, digital humans, and data science. I also have a strong enthusiasm for exploring various topics in the realm of computer science.🌱
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I just finished my research assistant intern in the HKU Computer Graphics and Visualization Lab, supervised by Prof. Taku Komura.
@@ -67,7 +67,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 - *2021* Hong Kong Hakka Students Scholarship
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
 
-# 👀 Fun Facts About Me
+# 😎 Fun Facts About Me
 - I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and listening rap music (88rising is the best🔥)
 - I can speak three languages, Mandarin, Cantonese, and English.
 - I am "half HongKonger, half Sichuaner".
