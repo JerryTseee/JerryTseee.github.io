@@ -36,7 +36,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios (2025 AAAI)**](https://openreview.net/)
+[**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios (2025 AAAI Conference on Artificial Intelligence)**](https://openreview.net/)
 
 Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
