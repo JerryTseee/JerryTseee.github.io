@@ -29,7 +29,6 @@ redirect_from:
 - *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering, the University of Hong Kong
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance, the University of Hong Kong
 - *2025.02 - 2025.06*, Undergraduate exchange student, CentraleSupélec, University of Paris-Saclay
-- *2019.09 - 2022.04*, Hong Kong Heungto Middle School (DSE: 35/42)
 
 # 📝 Publications and Projects
 
