@@ -57,7 +57,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 # 💻 Internships
 - *2024.05 - 2024.08*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
 - *2023.12 - 2024.02*, I worked as a **data scientist intern** in the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/). My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of WordPress product website.
-- *2023.08 - 2023.09*, I worked as an **IT Assistant** in the [**Hong Kong Hakka Associations**](https://hkhakka.com/). I helped to organized 2023 Hakka Student Scholarship Award Event. Using Excel to input the personal information of students, and designing an event poster with Figma.
+- *2023.08 - 2023.09*, I worked as an **IT Assistant** in the [**Hong Kong Hakka Associations**](https://hkhakka.com/). I helped to organized 2023 Hakka Student Scholarship Award Event. Using Excel to input the personal information of students, and designing an event poster with Figma. (now I am the part-time volunteer, help to promote the Hakka culture to the world)
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
