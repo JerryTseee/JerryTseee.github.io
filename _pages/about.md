@@ -69,5 +69,5 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 # 😎 Fun Facts About Me
 - I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and listening rap music (88rising is the best🔥)
-- I can speak three languages, Mandarin, Cantonese, and English.
+- I can speak three languages, English, Mandarin, and Cantonese.
 - I am "half HongKonger, half Sichuaner".
