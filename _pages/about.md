@@ -28,12 +28,12 @@ redirect_from:
 - *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (first degree), the University of Hong Kong
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance (second degree), the University of Hong Kong
 
-# 📝 Publications and Projects
+# 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Summer Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios (2025 AAAI Conference on Artificial Intelligence)**](https://openreview.net/)
+[**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios**](https://github.com/JerryTseee/UE_MetahumanToAnimSequenceToOBJ.git)
 
 Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
@@ -66,6 +66,6 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
 
 # 😎 Fun Facts About Me
-- I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and listening rap music (88rising is the best🔥)
+- I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and listening rap music and Coldplay!
 - I can speak three languages, English, Mandarin, and Cantonese.
-- I am "half HongKonger, half Sichuaner".
+- I am "half HongKonger, half Sichuaner", I used to live in Zhuhai for 10 years.
