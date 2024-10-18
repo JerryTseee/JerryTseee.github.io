@@ -22,7 +22,7 @@ redirect_from:
 - My research interest includes **machine learning**, **data science**, and **computer vision**. I also have a strong enthusiasm for exploring various topics in the realm of computer science.🌱
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I just finished my **research assistant intern** in the **HKU Computer Graphics and Visualization Lab**, supervised by Prof. Taku Komura.
+- *2024.08*: &nbsp;🎉🎉 I just finished my **summer research assistant intern** in the **HKU Computer Graphics and Visualization Lab**, supervised by Prof. Taku Komura.
 
 # 📖 Educations
 - *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering, the University of Hong Kong
