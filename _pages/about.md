@@ -25,8 +25,8 @@ redirect_from:
 - *2024.08*: &nbsp;🎉🎉 I just finished my **summer research assistant intern** in the **HKU Computer Graphics and Visualization Lab**, supervised by Prof. Taku Komura.
 
 # 📖 Educations
-- *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering, the University of Hong Kong
-- *2022.09 - 2027.06*, Bachelor of Business Administration in finance, the University of Hong Kong
+- *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (first degree), the University of Hong Kong
+- *2022.09 - 2027.06*, Bachelor of Business Administration in finance (second degree), the University of Hong Kong
 
 # 📝 Publications and Projects
 
