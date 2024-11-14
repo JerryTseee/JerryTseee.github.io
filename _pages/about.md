@@ -41,7 +41,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Personal Project 2024</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Capstone Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Driver Alert and Facial Recognition System**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
