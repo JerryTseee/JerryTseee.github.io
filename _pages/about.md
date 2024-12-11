@@ -22,15 +22,16 @@ redirect_from:
 - My research interest includes **machine learning**, **data science**, and **computer vision**. I also have a strong enthusiasm for exploring various topics in the realm of computer science.🌱
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I just finished my **summer research assistant intern** in the **HKU Computer Graphics and Visualization Lab**, supervised by Prof. Taku Komura.
+- Currently I am working on the project about the locomotion of different people
 
 # 📖 Educations
 - *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (first degree), the University of Hong Kong
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance (second degree), the University of Hong Kong
+- *2019.09 - 2022.05*, Hong Kong Heungto Middle School
 
-# 📝 Projects
+# 📝 Projects/Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Summer Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 AR Friend Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios**](https://github.com/JerryTseee/UE_MetahumanToAnimSequenceToOBJ.git)
@@ -53,10 +54,9 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 </div>
 
 # 💻 Internships
-- *2024.05 - 2024.08*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
+- *2024.05 - 2024.12*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
 - *2023.12 - 2024.02*, I worked as a **data scientist intern** in the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/). My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of WordPress product website.
-- *2024.10*, I worked as a **part-time data analyst helper** in the [**Amazon, China**](https://www.amazon.cn/). I was responsible for data processing. Analyzed and extracted insights from data to identify business opportunities and wrote an AARRR report.
-- *2023.08 - 2023.09*, I worked as an **IT Assistant** in the [**Hong Kong Hakka Associations**](https://hkhakka.com/). I helped to organized 2023 Hakka Student Scholarship Award Event. Using Excel to input the personal information of students, and designing an event poster with Figma. (Now I am the part-time volunteer, help to promote Hakka culture to the world)
+- *2023.08 - Present*, I worked as an **IT Assistant** in the [**Hong Kong Hakka Associations**](https://hkhakka.com/). I helped to organized 2023 Hakka Student Scholarship Award Event. Using Excel to input the personal information of students, and designing an event poster with Figma. (Now I am the part-time volunteer, help to promote Hakka culture to the world)
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
