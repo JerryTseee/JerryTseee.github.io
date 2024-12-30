@@ -49,7 +49,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 **Wangpok Tse**
 
-- Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained DNN model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
+- Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
 </div>
 </div>
 
