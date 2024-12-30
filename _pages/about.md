@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Projects/Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 AR Friend Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ITF AR Friend Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios**](https://github.com/JerryTseee/UE_MetahumanToAnimSequenceToOBJ.git)
@@ -42,7 +42,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Capstone Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Driver Alert and Facial Recognition System**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
