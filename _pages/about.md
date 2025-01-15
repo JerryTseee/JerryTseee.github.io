@@ -27,9 +27,9 @@ redirect_from:
 # 📖 Educations
 - *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (first degree), the University of Hong Kong
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance (second degree), the University of Hong Kong
-- *2019.09 - 2022.05*, Hong Kong Heungto Middle School
+- *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heungto Middle School
 
-# 📝 Projects/Publication
+# 📝 Projects/Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ITF AR Friend Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +38,7 @@ redirect_from:
 
 Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
-- The research proposes a multi-model dataset dubbed InterAct and uses a machine learning method to estimate interactive face expressions and body motions of two persons from their audio alone.
+- The research proposes a multi-model dataset dubbed InterAct and uses a machine learning method to estimate interactive face expressions and body motions of two persons from their audio alone. I was responsible for the face mesh conversion process on Unreal Engine 5.
 </div>
 </div>
 
@@ -49,14 +49,14 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 
 **Wangpok Tse**
 
-- Developed a driver state detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
+- Developed an AR driver detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
 </div>
 </div>
 
 # 💻 Internships
-- *2024.05 - 2025.01*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to help developing a fully automation system to convert metahuman to OBJ mesh in Unreal Engine 5 and Maya. I also helped to do the data analysis of the digital human facial data.
-- *2023.12 - 2024.02*, I worked as a **data scientist intern** in the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/). My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of WordPress product website.
-- *2023.08 - Present*, I worked as an **IT Assistant** in the [**Hong Kong Hakka Associations**](https://hkhakka.com/). I helped to organized 2023 Hakka Student Scholarship Award Event. Using Excel to input the personal information of students, and designing an event poster with Figma. (Now I am the part-time volunteer, help to promote Hakka culture to the world)
+- *2024.05 - Present*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to use machine learning and deep learning techniques to construct AR/VR and character animation, especially on digital human application. I also helped developing an Python automation pipeline to convert metahuman to OBJ files in Unreal Engine 5 and Maya.
+- *2023.12 - 2024.02*, I worked as a **data scientist intern** in the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/). My job was to collect the elderly activity data and help to do the data analysis to discover potential business value in the elderly market. I was also responsible for the renovation of product website on Wordpress.
+- *2023.08 - Present*, I worked as an **IT Assistant** in the [**Hong Kong Hakka Associations**](https://hkhakka.com/). I helped to organized 2023 Hakka Student Scholarship Award Event. Using Excel to input the personal information of students, and designing an event poster with Figma. (Now I am the part-time volunteer and Hakka student ambassador, help to promote Hakka culture to the world)
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
