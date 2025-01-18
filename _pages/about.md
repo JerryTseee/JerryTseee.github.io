@@ -35,7 +35,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**MotionPersona: Toward Character-aware Locomotion Control**]()
+
 Mingyi Shi, Wei Liu, Jidong Mei, **Wangpok Tse**, Xuelin Chen, Taku Komura
+
 - Introduced MotionPersona, a real-time character controller that generates diverse animations with personalized motion characteristics. The controller is trained with an extensive motion capture dataset with diverse human subjects, in terms of the age, gender, weight, height and body shape.
 </div>
 </div>
@@ -44,7 +46,9 @@ Mingyi Shi, Wei Liu, Jidong Mei, **Wangpok Tse**, Xuelin Chen, Taku Komura
 <div class='paper-box-text' markdown="1">
 
 [**Driver Alert and Facial Recognition System**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
+
 **Wangpok Tse**
+
 - Developed an AR driver detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
 </div>
 </div>
