@@ -19,7 +19,7 @@ redirect_from:
 
 # 🐧 About Me
 - I am TSE Wang Pok (nickname: Jerry). Currently I am pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**.
-- My research interest includes **computer graphics and character animation**, **digital human**, and **AR/VR**. I also have a strong enthusiasm for exploring various topics in machine learning, deep learning, and data science.🌱
+- My research interest includes **computer graphics & character animation**, **digital human**, and **AR/VR**. I also have a strong enthusiasm for exploring various topics in machine learning, deep learning, and data science.🌱
 
 # 🔥 News
 - Currently I am working on the project about the locomotion of different people
