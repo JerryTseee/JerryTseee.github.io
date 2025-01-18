@@ -31,14 +31,12 @@ redirect_from:
 
 # 📝 Projects/Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ITF AR Friend Project</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**InterAct: Capture and Modelling of Dynamic, Expressive and Interactive Activities between Two Persons in Daily Scenarios**](https://github.com/JerryTseee/UE_MetahumanToAnimSequenceToOBJ.git)
-
-Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
-
-- The research proposes a multi-model dataset dubbed InterAct and uses a machine learning method to estimate interactive face expressions and body motions of two persons from their audio alone. I was responsible for the face mesh conversion process on Unreal Engine 5.
+[**MotionPersona: Toward Character-aware Locomotion Control**]()
+Mingyi Shi, Wei Liu, Jidong Mei, **Wangpok Tse**, Xuelin Chen, Taku Komura
+- Introduced MotionPersona, a real-time character controller that generates diverse animations with personalized motion characteristics. The controller is trained with an extensive motion capture dataset with diverse human subjects, in terms of the age, gender, weight, height and body shape.
 </div>
 </div>
 
@@ -46,9 +44,7 @@ Yinghao Huang, Leo Ho, Dafei Qin, Mingyi Shi, **Wangpok Tse**, Taku Komura
 <div class='paper-box-text' markdown="1">
 
 [**Driver Alert and Facial Recognition System**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
-
 **Wangpok Tse**
-
 - Developed an AR driver detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
 </div>
 </div>
