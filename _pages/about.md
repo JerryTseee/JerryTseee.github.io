@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Projects/Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/aaai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/MotionPersona.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**MotionPersona: Toward Character-aware Locomotion Control**]()
