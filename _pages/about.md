@@ -31,16 +31,6 @@ redirect_from:
 
 # 📝 Projects/Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/MotionPersona.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**MotionPersona: Toward Character-aware Locomotion Control**]()
-
-Mingyi Shi, Wei Liu, Jidong Mei, **Wangpok Tse**, Xuelin Chen, Taku Komura
-
-- Introduced MotionPersona, a real-time character controller that generates diverse animations with personalized motion characteristics. The controller is trained with an extensive motion capture dataset with diverse human subjects, in terms of the age, gender, weight, height and body shape.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
