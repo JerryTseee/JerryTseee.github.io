@@ -9,7 +9,7 @@ author_profile: true
 
 # 📚 Courses
 
-- 2022 ~ 2023:  
+- **2022 ~ 2023**:  
   ENGG1300 Fundamental mechanics  
   ENGG1310 Electricity and electronics  
   ENGG1320 Engineers in the modern world  
@@ -23,7 +23,7 @@ author_profile: true
   CCHU9058 Nature in the City: Beyond the Concrete Jungle  
   CCCH9006 China's Modernization in the East Asian Context  
 
-- 2023 ~ 2024:  
+- **2023 ~ 2024**:  
   ENGG1340 Computer programming II  
   COMP2121 Discrete mathematics  
   COMP2119 Introduction to data structures and algorithms  
@@ -37,7 +37,7 @@ author_profile: true
   FINA1310 Corporate finance  
   CCGL9042 The Evolution of Civilization  
 
-- 2024 ~ 2025:  
+- **2024 ~ 2025**:  
   COMP3230 Principles of operating systems  
   COMP3278 Introduction to database management systems  
   COMP3297 Software engineering  
