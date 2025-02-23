@@ -1,3 +1,10 @@
+---
+permalink: /courses/
+title: "Courses"
+excerpt: ""
+author_profile: true
+---
+
 ~ last modified: 2/23/2025
 
 # Courses
