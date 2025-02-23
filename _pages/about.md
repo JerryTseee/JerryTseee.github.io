@@ -35,14 +35,8 @@ redirect_from:
 # 📝 Publications & Projects
 
 
-<div class='paper-box' style="display: flex; align-items: center;">
-  <div class='paper-box-image' style="flex: 1; max-width: 40%;">
-    <div>
-      <div class="badge">Undergraduate Individual Project</div>
-      <img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' style="flex: 2; padding-left: 20px;" markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Driver Alert and Facial Recognition System Prototype**
 - an AR-based driver safety system using OpenCV and Python, aiming to enhance real-time driver safety. Integrated Haar Cascades algorithm and a pre-trained machine learning model for face, age and gender recognition. Designed algorithms to detect dangerous driving behaviors by analyzing head-eye position parameters and facial identity
@@ -50,14 +44,8 @@ redirect_from:
 </div>
 
 
-<div class='paper-box' style="display: flex; align-items: center;">
-  <div class='paper-box-image' style="flex: 1; max-width: 40%;">
-    <div>
-      <div class="badge">Undergraduate Individual Project</div>
-      <img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' style="flex: 2; padding-left: 20px;" markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Parallel Computing for Accelerating Large Language Model Inference**
 - Optimized the inference speed of the SmolLM model using multi-threaded parallel computing based on llama2.c framework. Designed a pthread pool to distribute tasks such as matrix-vector multiplication and head-iteration, improving the efficiency
