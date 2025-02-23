@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: ""
+permalink: /cv/
+title: "CV"
 excerpt: ""
 author_profile: true
 ---
