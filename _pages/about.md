@@ -22,8 +22,8 @@ redirect_from:
 
 
 # 📖 Educations
-- *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (first degree), the University of Hong Kong
-- *2022.09 - 2027.06*, Bachelor of Business Administration in finance (second degree), the University of Hong Kong
+- *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (double degree), the University of Hong Kong
+- *2022.09 - 2027.06*, Bachelor of Business Administration in finance (double degree), the University of Hong Kong
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heungto Middle School
 
 # 💻 Internships
