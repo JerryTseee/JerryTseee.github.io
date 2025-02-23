@@ -31,7 +31,7 @@ author_profile: true
   ELEC2844 Probabilistic systems analysis  
   ELEC2441 Computer organization and microprocessors  
   ELEC2840 Engineering training  
-  IIMI2601 Management information systems  
+  IIMT2601 Management information systems  
   ECON1210 Introductory microeconomics  
   ECON1220 Introductory macroeconomics  
   FINA1310 Corporate finance  
