@@ -6,3 +6,5 @@ author_profile: true
 ---
 
 ~ last modified: 2/23/2025
+
+# ⚡️ About my hobbies
