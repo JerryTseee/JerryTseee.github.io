@@ -9,11 +9,14 @@ author_profile: true
 
 # ⚡️ About My Hobbies
 I’ve been drawing and sketching since I was a child, although life has taken me in different directions, my love for creating imaginative worlds remains. Now, I draw some occasionally, here are some of my works 🛠️🛠️🛠️
-![1](/images/wolf1.jpg)
-![2](/images/wolf2.jpg)
-![3](/images/T.jpg)
-![4](/images/batman.jpg)
-![5](/images/girl.jpg)
-![6](/images/god.jpg)
-![7](/images/scary.jpg)
-![8](/images/wolf2.jpg)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/wolf1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
+  <img src="/images/wolf2.jpg" alt="wolf 2" style="width: 150px; height: auto;">
+  <img src="/images/T.jpg" alt="T" style="width: 150px; height: auto;">
+  <img src="/images/batman.jpg" alt="batman" style="width: 150px; height: auto;">
+  <img src="/images/girl.jpg" alt="girl" style="width: 150px; height: auto;">
+  <img src="/images/god.jpg" alt="god" style="width: 150px; height: auto;">
+  <img src="/images/scary.jpg" alt="scary" style="width: 150px; height: auto;">
+  <img src="/images/moonnight.jpg" alt="moonnight" style="width: 150px; height: auto;">
+</div>
