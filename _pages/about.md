@@ -35,7 +35,7 @@ redirect_from:
 # 📝 Publications & Projects
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/driver.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Driver Alert and Facial Recognition System Prototype**
@@ -44,7 +44,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/chatbot.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Parallel Computing for Accelerating Large Language Model Inference**
@@ -53,7 +53,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/iris.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Machine Learning for Iris Flower Dataset Classification**
