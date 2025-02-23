@@ -26,6 +26,10 @@ redirect_from:
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance (second degree), the University of Hong Kong
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heungto Middle School
 
+# 💻 Internships
+- *2024.05 - 2025.01*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to use machine learning and deep learning techniques to construct AR/VR and character animation, especially on digital human application. And used Vicon motion capture system to collect locomotion datasets. I also helped to write some Python scripts for Unreal Engine 5
+- *2023.12 - 2024.02*, I worked as a **data scientist AI intern** in the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/). My job was to do the data analysis on collected data and to discover potential business value in the elderly market. I was also responsible for the renovation of product website using Wordpress.
+
 # 📝 Projects/Publications
 
 
@@ -40,9 +44,6 @@ redirect_from:
 </div>
 </div>
 
-# 💻 Internships
-- *2024.05 - 2025.01*, I worked as a **research assistant** in the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/). My duty was to use machine learning and deep learning techniques to construct AR/VR and character animation, especially on digital human application. And used Vicon motion capture system to collect locomotion datasets. I also helped to write some Python scripts for Unreal Engine 5
-- *2023.12 - 2024.02*, I worked as a **data scientist AI intern** in the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/). My job was to do the data analysis on collected data and to discover potential business value in the elderly market. I was also responsible for the renovation of product website using Wordpress.
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
