@@ -2,15 +2,3 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Publications and Projects"
-    url: "/#-publications-and-projects"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
