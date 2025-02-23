@@ -38,11 +38,26 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Driver Alert and Facial Recognition System**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
+[**Driver Alert and Facial Recognition System Prototype**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
+- an AR-based driver safety system using OpenCV and Python, aiming to enhance real-time driver safety. Integrated Haar Cascades algorithm and a pre-trained machine learning model for face, age and gender recognition. Designed algorithms to detect dangerous driving behaviors by analyzing head-eye position parameters and facial identity
+</div>
+</div>
 
-**Wangpok Tse**
 
-- Developed an AR driver detection system using OpenCV, aiming to enhance real-time driver safety. Face, age, and gender recognition were achieved by using Haar Cascades algorithm and a pre-trained model. Designed a head-eye position index and identity recognition to identify dangerous driving behaviors.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Parallel Computing for Accelerating Large Language Model Inference**]
+- Optimized the inference speed of the SmolLM model using multi-threaded parallel computing based on llama2.c framework. Designed a pthread pool to distribute tasks such as matrix-vector multiplication and head-iteration, improving the efficiency
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/DriverAlertSystem.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Machine Learning for Iris Flower Dataset Classification**]
+- Used Sklearn to load and preprocess the Iris dataset, including data cleaning, normalization, and feature extraction. Trained a Naïve Bayes classifier on the preprocessed dataset, achieving over 90% accuracy in flower species classification
 </div>
 </div>
 
