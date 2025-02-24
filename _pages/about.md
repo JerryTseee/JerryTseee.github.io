@@ -20,7 +20,7 @@ redirect_from:
 ~ last modified: 2/23/2025
 
 # 🐧 About Me
-- I am TSE Wang Pok (AKA: Jerry). Currently I am pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**. My research interests in **Artificial Intelligence** and **Data Science**
+- ✨ I am TSE Wang Pok (AKA: Jerry). Currently I am pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**. My research interests in **Artificial Intelligence** and **Data Science**. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk 👀
 
 
 # 📖 Educations
