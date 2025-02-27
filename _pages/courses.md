@@ -47,5 +47,6 @@ author_profile: true
   ELEC3848 Integrated design project  
   ELEC3844 Engineering management and society  
   ELEC3841 Internship program  
-  CENG9001 Practical Chinese for Engineering Students  
+  CENG9001 Practical Chinese for Engineering Students
+  MAT2501 Game Theory (Nagoya University, virtual exchange)  
   FINA2320 Investments and Portfolio Analysis (University of International Business and Economics, virtual exchange)
