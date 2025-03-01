@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WangpokTse"
-description              : "My name is Tse Wang Pok, an undergraduate student from HKU, welcome to connect with me!"
+description              : "My name is TSE Wang Pok, it is so nice to meet you guys here!"
 repository               : "JerryTseee/JerryTseee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wangpok Tse (Jerry)"
+  name             : "TSE Wang Pok"
   avatar           : "images/TW.jpg"
-  bio              : "The University of Hong Kong"
+  bio              : 
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
