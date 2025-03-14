@@ -1,6 +1,6 @@
 ---
 permalink: /Miscellanea/
-title: "Miscellanea"
+title: "Miscellanea (兴趣)"
 excerpt: ""
 author_profile: true
 ---
