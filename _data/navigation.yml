@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "About Me (关于我)"
     url: "/#about-me"
 
-  - title: "CV"
+  - title: "CV (简历)"
     url: "/cv/"
 
-  - title: "Courses"
+  - title: "Courses (课程)"
     url: "/courses/"
 
-  - title: "Miscellanea"
+  - title: "Miscellanea (爱好)"
     url: "/Miscellanea/"
