@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "WangpokTse"
-description              : "My name is TSE Wang Pok, it is so nice to meet you guys here!"
+title                    : "TSEWangPok"
+description              : "My name is TSE Wang Pok, nice to meet you guys here!"
 repository               : "JerryTseee/JerryTseee.github.io"
 google_scholar_stats_use_cdn : true
 
