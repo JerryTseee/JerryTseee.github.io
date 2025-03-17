@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/driver.webp' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Driver Alert and Facial Recognition System Prototype**
+[**Driver Alert and Facial Recognition System Prototype**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
 - an AR-based driver safety system using OpenCV and Python, aiming to enhance real-time driver safety. Integrated Haar Cascades algorithm and a pre-trained machine learning model for face, age and gender recognition. Designed algorithms to detect dangerous driving behaviors by analyzing head-eye position parameters and facial identity
 </div>
 </div>
@@ -47,7 +47,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/chatbot.webp' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Parallel Computing for Accelerating Large Language Model Inference**
+[**Parallel Computing for Accelerating Large Language Model Inference**](https://github.com/JerryTseee/OperatingSystem_COMP3230.git)
 - Optimized the inference speed of the SmolLM model using multi-threaded parallel computing based on llama2.c framework. Designed a pthread pool to distribute tasks such as matrix-vector multiplication and head-iteration, improving the efficiency
 </div>
 </div>
@@ -56,7 +56,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/iris.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Machine Learning for Iris Flower Dataset Classification**
+[**Machine Learning for Iris Flower Dataset Classification**]()
 - Used Sklearn to load and preprocess the Iris dataset, including data cleaning, normalization, and feature extraction. Trained a Naïve Bayes classifier on the preprocessed dataset, achieving over 90% accuracy in flower species classification
 </div>
 </div>
