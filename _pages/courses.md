@@ -22,6 +22,7 @@ author_profile: true
   CCST9038 Science and Science Fiction  
   CCHU9058 Nature in the City: Beyond the Concrete Jungle  
   CCCH9006 China's Modernization in the East Asian Context  
+  Linear Algebra (W. Gilbert Strang, MIT)  
 
 - **2023 ~ 2024**:  
   ENGG1340 Computer programming II  
