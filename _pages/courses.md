@@ -49,4 +49,6 @@ author_profile: true
   ELEC3841 Internship program  
   CENG9001 Practical Chinese for Engineering Students  
   MAT2501 Game Theory (Nagoya University, virtual exchange)  
-  FINA2320 Investments and Portfolio Analysis (University of International Business and Economics, virtual exchange)
+  FINA2320 Investments and Portfolio Analysis (University of International Business and Economics, virtual exchange)  
+  GAMES101 Computer Graphics (Lingqi Yan, UCSB)  
+  Machine Learning (Hung-yi Lee, NTU)  
