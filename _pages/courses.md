@@ -52,4 +52,5 @@ author_profile: true
   MAT2501 Game Theory (Nagoya University, virtual exchange)  
   FINA2320 Investments and Portfolio Analysis (University of International Business and Economics, virtual exchange)  
   GAMES101 Computer Graphics (Lingqi Yan, UCSB)  
+  CS231n Deep Learning for Computer Vision (Fei-Fei Li, Stanford)  
   Machine Learning (Hung-yi Lee, NTU)  
