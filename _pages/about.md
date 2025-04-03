@@ -35,15 +35,7 @@ redirect_from:
 # 📝 Publications
 
 coming soon ~
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Undergraduate Individual Project</div><img src='images/driver.webp' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**Driver Alert and Facial Recognition System Prototype**](https://github.com/JerryTseee/Driver_State_Alert_System.git)
-- an AR-based driver safety system using OpenCV and Python, aiming to enhance real-time driver safety. Integrated Haar Cascades algorithm and a pre-trained machine learning model for face, age and gender recognition. Designed algorithms to detect dangerous driving behaviors by analyzing head-eye position parameters and facial identity
-</div>
-</div>
--->
 
 # 🎖 Honors and Awards
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
