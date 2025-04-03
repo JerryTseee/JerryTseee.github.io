@@ -25,6 +25,7 @@ I enjoy exploring new places and capturing memories through photography to prese
   <img src="/images/p13.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/p14.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/p15.jpg" alt="moonnight" style="width: 150px; height: auto;">
+  <img src="/images/sh.jpg" alt="moonnight" style="width: 150px; height: auto;">
 </div>
 
 I’ve been drawing and sketching since I was a child, although life has taken me in different directions, my love for creating imaginative worlds remains. Now, I draw some occasionally, here are some of my works 🛠️🛠️🛠️
