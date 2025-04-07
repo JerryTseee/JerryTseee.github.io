@@ -31,7 +31,7 @@ redirect_from:
 # 💻 Industry Experiences
 - *2023.12 - 2024.02*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
-# 💻 Research Experiences
+# ⚡ Research Experiences
 - *2024.05 - Present*, **Research Intern** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
 
