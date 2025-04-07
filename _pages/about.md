@@ -28,9 +28,12 @@ redirect_from:
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance (double degree), the University of Hong Kong
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heungto Middle School
 
-# 💻 Internships
-- *2024.05 - Present*, **research intern** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
-- *2023.12 - 2024.02*, **data scientist AI intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
+# 💻 Industry Experiences
+- *2023.12 - 2024.02*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
+
+# 💻 Research Experiences
+- *2024.05 - Present*, **Research Intern** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
+
 
 # 📝 Publications
 
