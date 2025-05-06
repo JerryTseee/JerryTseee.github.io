@@ -51,4 +51,4 @@ coming soon ~
 # 😎 Fun Facts About Me
 - I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and rap music
 - I can speak three languages, English, Mandarin, and Cantonese.
-- I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai for over 10 years.
+- I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
