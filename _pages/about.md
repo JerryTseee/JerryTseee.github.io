@@ -49,6 +49,6 @@ coming soon ~
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
 
 # 😎 Fun Facts About Me
-- I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and listening rap music
+- I am also interested in fencing (HKU Epee fencing team🔥), photography, drawing, playing basketball and rap music
 - I can speak three languages, English, Mandarin, and Cantonese.
 - I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai for over 10 years.
