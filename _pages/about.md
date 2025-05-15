@@ -20,7 +20,7 @@ redirect_from:
 ~ last modified: 2/23/2025
 
 # 🐧 About Me
-- ✨ I am TSE Wang Pok (谢宏博), pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, at the **University of Hong Kong**. I am interested in **Artificial Intelligence** and **Data Science**. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk 👀
+- I am TSE Wang Pok (谢宏博), pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, in the **Department of Electrical and Electronic Engineering** and **Business School** at the **University of Hong Kong**. I am interested in **Artificial Intelligence** and **Data Science**. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk
 
 
 # 📖 Educations
