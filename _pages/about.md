@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-~ last modified: 2/23/2025
+~ last modified: 5/17/2025
 
 # About Me 🐧
 - I am TSE Wang Pok (谢宏博), pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, in the **Department of Electrical and Electronic Engineering** and **Business School** at the **University of Hong Kong**. I am interested in artificial intelligence and data science, and hope my research works can be useful for the game/movie industry. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk, and follow my Xiaohongshu (小红书): JerryTsee
@@ -32,6 +32,7 @@ redirect_from:
 - *2023.12 - 2024.02*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
 # Research Experiences ⚡
+- *2025.05 - 2025.09*, **Research Intern** at the [**HKUST Intelligent Graphics Lab**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
 - *2024.05 - 2025.04*, **Research Intern** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
 
