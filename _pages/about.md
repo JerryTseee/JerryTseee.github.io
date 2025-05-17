@@ -19,28 +19,28 @@ redirect_from:
 
 ~ last modified: 2/23/2025
 
-# 🐧 About Me
+# About Me 🐧
 - I am TSE Wang Pok (谢宏博), pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, in the **Department of Electrical and Electronic Engineering** and **Business School** at the **University of Hong Kong**. I am interested in artificial intelligence and data science, and hope my research works can be useful for the game/movie industry. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk, and follow my Xiaohongshu (小红书): JerryTsee
 
 
-# 📖 Educations
+# Educations 📖
 - *2022.09 - 2027.06*, Bachelor of Engineering in computer engineering (double degree), the University of Hong Kong
 - *2022.09 - 2027.06*, Bachelor of Business Administration in finance (double degree), the University of Hong Kong
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heungto Middle School
 
-# 💻 Industry Experiences
+# Industry Experiences 💻
 - *2023.12 - 2024.02*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
-# ⚡ Research Experiences
+# Research Experiences ⚡
 - *2024.05 - 2025.04*, **Research Intern** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
 
-# 📝 Publications
+# Publications 📝
 
 coming soon ~
 
 
-# 🎖 Honors and Awards
+# Honors and Awards 🎖
 - *2023 - 2024* Dean's Award for Engineering Student Scholarship
 - *2022 - 2023* Dean's Award for Engineering Student Scholarship
 - *2023* GBAI HK-Macau Student Innovation and Entrepreneurship Camp 2nd Award
@@ -48,7 +48,7 @@ coming soon ~
 - *2021* Hong Kong Hakka Students Scholarship
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
 
-# 😎 Fun Facts About Me
+# Fun Facts About Me 😎
 - I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and rap music
 - I can speak three languages, English, Mandarin, and Cantonese.
 - I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
