@@ -7,7 +7,7 @@ author_profile: true
 
 ~ last modified: 2/23/2025
 
-# ⚡️ About My Hobbies
+# About My Hobbies ⚡️
 I enjoy exploring new places and capturing memories through photography to preserve those special moments.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/p1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
