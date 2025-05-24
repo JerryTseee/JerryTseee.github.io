@@ -37,6 +37,9 @@ redirect_from:
 - *2024.05 - 2025.04*, **Research Intern** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
 
+# News ✨
+- one paper is accepted to SCA2025!
+
 # Publications
 
 coming soon ~
