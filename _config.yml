@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "TSEWangPok"
-description              : "My name is TSE Wang Pok, nice to meet you guys here!"
+title                    : "Wangpok Tse"
+description              : "My name is Wangpok Tse, nice to meet you guys here!"
 repository               : "JerryTseee/JerryTseee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "TSE Wang Pok"
+  name             : "Wangpok Tse"
   avatar           : "images/me.jpg"
   bio              : 
   location         : "Hong Kong SAR"
