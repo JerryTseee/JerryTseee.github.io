@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-~ last modified: 5/17/2025
+~ last modified: 6/12/2025
 
-# About Me 🐧
-- I am TSE Wang Pok (谢宏博), pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, in the **Department of Electrical and Electronic Engineering** and **Business School** at the **University of Hong Kong**. I am interested in GenAI and character animation, hope my research works can be useful to the game/movie industry. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk, and follow my Xiaohongshu (小红书): JerryTsee
+# Wangpok Tse (谢宏博) 🐧
+- I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**, in the **Department of Electrical and Electronic Engineering** and **Business School**. I am interested in Generative AI and character animation, hope my research works can be useful to the game/movie industry. Welcome to connect with me: s201943158@gmail.com or crazytse@connect.hku.hk, and follow my Xiaohongshu (小红书): JerryTsee
 
 
 # Educations
