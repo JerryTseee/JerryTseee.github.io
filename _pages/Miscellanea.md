@@ -5,10 +5,10 @@ excerpt: ""
 author_profile: true
 ---
 
-~ last modified: 5/17/2025
+~ last modified: 6/12/2025
 
-# About My Hobbies ⚡️
-I enjoy exploring new places and capturing memories through photography to preserve those special moments.
+# My Hobbies ⚡️
+I enjoy exploring new places and capturing memories through photography
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/p1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
   <img src="/images/p2.jpg" alt="wolf 2" style="width: 150px; height: auto;">
@@ -28,7 +28,7 @@ I enjoy exploring new places and capturing memories through photography to prese
   <img src="/images/sh.jpg" alt="moonnight" style="width: 150px; height: auto;">
 </div>
 
-I’ve been drawing and sketching since I was a child, although life has taken me in different directions, my love for creating imaginative worlds remains. Now, I draw some occasionally, here are some of my works 🛠️🛠️🛠️
+I’ve been drawing and sketching since I was a child. And now I draw some occasionally, here are some of my works 🛠️🛠️🛠️
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/wolf1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
