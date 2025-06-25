@@ -26,6 +26,7 @@ I enjoy exploring new places and capturing memories through photography
   <img src="/images/p14.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/p15.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/sh.jpg" alt="moonnight" style="width: 150px; height: auto;">
+  <img src="/images/maldives.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/guilin.jpg" alt="moonnight" style="width: 150px; height: auto;">
 </div>
 
