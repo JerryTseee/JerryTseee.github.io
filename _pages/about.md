@@ -44,7 +44,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 30px; min-width: 250px;">
-    <img src="images//interact.jpg" alt="InterAct Dataset" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/interact.jpg" alt="InterAct Dataset" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios</strong><br>
