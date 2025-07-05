@@ -55,14 +55,6 @@ redirect_from:
   </div>
 </div>
 
-# Honors and Awards
-- *2023 - 2024* HKU Dean's Award for Engineering Student Scholarship
-- *2022 - 2023* HKU Dean's Award for Engineering Student Scholarship
-- *2023* GBAI HK-Macau Student Innovation and Entrepreneurship Camp 2nd Award
-- *2022* Hong Kong Hakka Students Scholarship
-- *2021* Hong Kong Hakka Students Scholarship
-- *2020* Hong Kong Physics Olympiad Honourable Mention Award
-
 
 # Honors and Awards
 - *2023 - 2024* HKU Dean's Award for Engineering Student Scholarship
