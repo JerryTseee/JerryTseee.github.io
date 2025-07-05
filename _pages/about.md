@@ -43,7 +43,7 @@ redirect_from:
 # Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <div style="flex: 1; margin-right: 30px; min-width: 250px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
     <img src="/images/interact.jpg" alt="InterAct Dataset" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
@@ -56,36 +56,6 @@ redirect_from:
   </div>
 </div>
 
-<style>
-  .pub-container {
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 30px;
-    align-items: center;
-  }
-  .pub-image {
-    flex: 0 0 250px;
-    margin-right: 20px;
-    margin-bottom: 15px;
-  }
-  .pub-content {
-    flex: 1;
-    min-width: 200px;
-  }
-  .pub-links {
-    margin-top: 8px;
-  }
-  @media (max-width: 768px) {
-    .pub-container {
-      flex-direction: column;
-    }
-    .pub-image {
-      margin-right: 0;
-      margin-bottom: 15px;
-      text-align: center;
-    }
-  }
-</style>
 
 # Honors and Awards
 - *2023 - 2024* HKU Dean's Award for Engineering Student Scholarship
