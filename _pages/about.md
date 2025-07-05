@@ -48,7 +48,7 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios</strong><br>
-    Leo Ho*, Yinghao Huang*, Dafei Qin, Mingyi Shi, <u>Wangpok Tse</u>, Wei Liu, Junichi Yamagishi, Taku Komura<br>
+    Leo Ho*, Yinghao Huang*, Dafei Qin, Mingyi Shi, <strong>Wangpok Tse</strong>, Wei Liu, Junichi Yamagishi, Taku Komura<br>
     Symposium on Computer Animation (SCA) 2025<br>
     *Joint first author<br>
     [<a href="https://hku-cg.github.io/interact/">webpage</a>] [<a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">video</a>]
