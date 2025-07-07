@@ -5,8 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-~ last modified: 6/12/2025
-
 # My Hobbies ⚡️
 I enjoy exploring new places and capturing memories through photography
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
