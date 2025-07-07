@@ -5,8 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-~ last modified: 6/12/2025
-
 # Courses (The University of Hong Kong) 📚
 
 - **2022 ~ 2023**:  
