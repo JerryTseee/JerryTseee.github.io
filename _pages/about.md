@@ -30,7 +30,7 @@ redirect_from:
 
 # Industry Experiences
 - *2025.06 - Present*, **AI Agent Developer Intern** at the [**BPS Global Management Limited, Hong Kong**](https://bps-group.net/en/).
-- *2023.12 - 2024.02*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
+- *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
 # Research Experiences
 - *2025.06 - Present*, **Research Assistant** at the [**HKUST Intelligent Graphics Lab**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
