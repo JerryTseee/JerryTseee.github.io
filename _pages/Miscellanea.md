@@ -40,3 +40,10 @@ I’ve been drawing and sketching since I was a child. And now I draw some occas
   <img src="/images/scary.jpg" alt="scary" style="width: 150px; height: auto;">
   <img src="/images/moonnight.jpg" alt="moonnight" style="width: 150px; height: auto;">
 </div>
+
+
+# Fun Facts About Me 😎
+- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and rap music
+- I can speak three languages, English, Mandarin, and Cantonese.
+- I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
+
