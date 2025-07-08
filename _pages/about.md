@@ -61,8 +61,3 @@ redirect_from:
 - *2022* Hong Kong Hakka Students Scholarship
 - *2021* Hong Kong Hakka Students Scholarship
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
-
-# Fun Facts About Me 😎
-- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and rap music
-- I can speak three languages, English, Mandarin, and Cantonese.
-- I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
