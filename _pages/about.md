@@ -61,7 +61,7 @@ redirect_from:
     <img src="/images/stock.jpeg" alt="Qfin" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
-    <strong>5 Algorithmic Trading Strategies</strong><br>
+    <strong>5 Algorithmic Stock Trading Strategies</strong><br>
     Python implementation for 5 different stock trading strategies, including implementation module, backtesting module, visualization module<br>
     - Russel (2000) rebalancing strategy <br>
     - Rubber band trading strategy <br>
