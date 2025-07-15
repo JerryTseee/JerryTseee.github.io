@@ -61,14 +61,14 @@ redirect_from:
     <img src="/images/stock.jpeg" alt="Qfin" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
-    <strong>5 Algorithmic Stock Trading Strategies</strong><br>
-    Python implementation for 5 different stock trading strategies, including implementation module, backtesting module, visualization module<br>
-    - Russel (2000) rebalancing strategy <br>
+    <strong>Algorithmic Stock Trading Strategies</strong><br>
+    Python implementation for different stock trading strategies, including implementation module, backtesting module, visualization module. Eg:<br>
+    - Russel 2000 rebalancing strategy <br>
     - Rubber band trading strategy <br>
     - MFI indicator strategy <br>
     - S&P 500, gold, and bonds rotation momentum strategy <br>
     - The turn of the month strategy <br>
-    [<a href="https://github.com/JerryTseee/5_Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
+    [<a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
   </div>
 </div>
 
