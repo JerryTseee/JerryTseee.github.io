@@ -62,7 +62,6 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>5 Quantitative Finance Trading Strategies</strong><br>
-    <br>
     Python implementation for 5 different stock trading strategies, including implementation module, backtesting module, visualization module<br>
     - Russel (2000) rebalancing strategy <br>
     - Rubber band trading strategy <br>
