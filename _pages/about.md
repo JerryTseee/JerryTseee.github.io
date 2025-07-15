@@ -58,7 +58,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
-    <img src="/images/interact.jpg" alt="Qfin" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/stock.jpeg" alt="Qfin" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>5 Quantitative Finance Trading Strategies</strong><br>
