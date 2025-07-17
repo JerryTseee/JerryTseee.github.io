@@ -79,3 +79,6 @@ redirect_from:
 - *2022* Hong Kong Hakka Students Scholarship
 - *2021* Hong Kong Hakka Students Scholarship
 - *2020* Hong Kong Physics Olympiad Honourable Mention Award
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_60xQXBwrTBvd6fGroaoUCX0wq1EbNFOp8CSE64nfOk&cl=ffffff&w=a"></script>
