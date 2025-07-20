@@ -36,10 +36,6 @@ redirect_from:
 - *2025.06 - Present*, **Research Assistant** at the [**HKUST Intelligent Graphics Lab**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
 - *2024.05 - 2025.04*, **Research Assistant** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
-
-
-
-
 <style>
     .logo-container {
         display: flex;
@@ -76,25 +72,19 @@ redirect_from:
     <div class="logo-item">
         <img src="/images/hku.jpg" alt="University of Hong Kong Logo">
     </div>
-    
     <!-- BPS Global -->
     <div class="logo-item">
         <img src="/images/bps.jpg" alt="BPS Global Management Logo">
     </div>
-    
-    <!-- SmartAge -->
-    <div class="logo-item">
-        <img src="/images/sm.jpg" alt="SmartAge Intelligence Logo">
-    </div>
-    
     <!-- HKUST -->
     <div class="logo-item">
         <img src="/images/hkust.jpg" alt="HKUST Logo">
     </div>
+    <!-- SmartAge -->
+    <div class="logo-item">
+        <img src="/images/sm.jpg" alt="SmartAge Intelligence Logo">
+    </div>
 </div>
-
-
-
 
 
 # Publications ✨
