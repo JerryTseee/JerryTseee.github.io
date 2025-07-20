@@ -28,6 +28,16 @@ redirect_from:
 - *2022.09 - 2026.06*, Bachelor of Engineering in computer engineering (double degree), the University of Hong Kong
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heung To Middle School
 
+<style>
+  a {
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+  a:hover {
+    text-decoration: underline !important;
+  }
+</style>
+
 # Industry Experiences
 - *2025.06 - Present*, **AI Agent Developer Intern** at the [**BPS Global Management Limited, Hong Kong**](https://bps-group.net/en/).
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
