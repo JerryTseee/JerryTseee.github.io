@@ -19,7 +19,7 @@ redirect_from:
 
 ~ last modified: 7/15/2025
 
-# Wangpok Tse (谢宏博) 🐱
+# Wangpok Tse (谢宏博)
 - I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**. I am interested in **Generative AI** and **3D Computer Vision**, especially in **Character Animation**. Hope my research works can be useful in the game/movie industry. Additionally, I am also interested in **Quantitative Finance** area. Welcome to connect with me!
 
 
@@ -87,7 +87,7 @@ redirect_from:
 </div>
 
 
-# Publications ✨
+# Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
@@ -104,7 +104,7 @@ redirect_from:
 </div>
 
 
-# Projects ✨
+# Projects
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
