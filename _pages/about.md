@@ -74,22 +74,22 @@ redirect_from:
 <div class="logo-container">
     <!-- HKU -->
     <div class="logo-item">
-        <img src="/images/hku.jpeg" alt="University of Hong Kong Logo">
+        <img src="/images/hku.jpg" alt="University of Hong Kong Logo">
     </div>
     
     <!-- BPS Global -->
     <div class="logo-item">
-        <img src="/images/bps.jpeg" alt="BPS Global Management Logo">
+        <img src="/images/bps.jpg" alt="BPS Global Management Logo">
     </div>
     
     <!-- SmartAge -->
     <div class="logo-item">
-        <img src="/images/sm.jpeg" alt="SmartAge Intelligence Logo">
+        <img src="/images/sm.jpg" alt="SmartAge Intelligence Logo">
     </div>
     
     <!-- HKUST -->
     <div class="logo-item">
-        <img src="/images/hkust.jpeg" alt="HKUST Logo">
+        <img src="/images/hkust.jpg" alt="HKUST Logo">
     </div>
 </div>
 
