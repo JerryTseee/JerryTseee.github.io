@@ -28,27 +28,13 @@ redirect_from:
 - *2022.09 - 2026.06*, Bachelor of Engineering in computer engineering (double degree), the University of Hong Kong
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heung To Middle School
 
-<style>
-  .clean-link a {
-    text-decoration: none !important;
-    color: #0066cc !important;
-    transition: color 0.2s ease;
-  }
-  .clean-link a:hover {
-    color: #004499 !important;
-  }
-</style>
-<span class="clean-link">
 # Industry Experiences
 - *2025.06 - Present*, **AI Agent Developer Intern** at the [**BPS Global Management Limited, Hong Kong**](https://bps-group.net/en/).
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
-</span>
 
-<span class="clean-link">
 # Research Experiences
 - *2025.06 - Present*, **Research Assistant** at the [**HKUST Intelligent Graphics Lab**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
 - *2024.05 - 2025.04*, **Research Assistant** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
-</span>
 
 <style>
     .logo-container {
