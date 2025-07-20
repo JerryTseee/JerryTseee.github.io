@@ -31,10 +31,12 @@ redirect_from:
 <style>
   a {
     text-decoration: none !important;
-    color: inherit !important;
+    color: #0066cc !important; /* Classic blue link color */
+    transition: color 0.2s ease; /* Smooth color transition */
   }
   a:hover {
-    text-decoration: underline !important;
+    text-decoration: none !important;
+    color: #004499 !important; /* Slightly darker blue on hover */
   }
 </style>
 
