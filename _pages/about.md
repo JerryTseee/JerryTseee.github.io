@@ -37,6 +37,66 @@ redirect_from:
 - *2024.05 - 2025.04*, **Research Assistant** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
 
+
+
+
+<style>
+    .logo-container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        max-width: 1000px;
+        margin: 20px auto;
+        padding: 15px;
+    }
+    
+    .logo-item {
+        flex: 1;
+        min-width: 150px;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .logo-item img {
+        max-width: 100%;
+        height: auto;
+        max-height: 70px;
+        filter: grayscale(20%);
+        transition: filter 0.3s ease;
+    }
+    
+    .logo-item img:hover {
+        filter: grayscale(0%);
+    }
+</style>
+
+<div class="logo-container">
+    <!-- HKU -->
+    <div class="logo-item">
+        <img src="/images/hku.jpeg" alt="University of Hong Kong Logo">
+    </div>
+    
+    <!-- BPS Global -->
+    <div class="logo-item">
+        <img src="/images/bps.jpeg" alt="BPS Global Management Logo">
+    </div>
+    
+    <!-- SmartAge -->
+    <div class="logo-item">
+        <img src="/images/sm.jpeg" alt="SmartAge Intelligence Logo">
+    </div>
+    
+    <!-- HKUST -->
+    <div class="logo-item">
+        <img src="/images/hkust.jpeg" alt="HKUST Logo">
+    </div>
+</div>
+
+
+
+
+
 # Publications ✨
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
