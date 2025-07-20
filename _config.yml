@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wangpok Tse"
-description              : "My name is Wangpok Tse, nice to meet you guys here!"
+# description              : "My name is Wangpok Tse, nice to meet you guys here!"
 repository               : "JerryTseee/JerryTseee.github.io"
 google_scholar_stats_use_cdn : true
 
