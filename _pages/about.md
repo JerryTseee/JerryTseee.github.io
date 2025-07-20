@@ -44,14 +44,14 @@ redirect_from:
         flex-wrap: wrap;
         max-width: 1000px;
         margin: 20px auto;
-        padding: 15px;
+        padding: 10px;
     }
     
     .logo-item {
         flex: 1;
-        min-width: 150px;
+        min-width: 100px;
         text-align: center;
-        padding: 10px;
+        padding: 1px;
     }
     
     .logo-item img {
