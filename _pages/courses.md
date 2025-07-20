@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-# Courses (The University of Hong Kong) 📚
+# Courses (The University of Hong Kong)
 
 - **2022 ~ 2023**:  
   ENGG1300 Fundamental mechanics  
