@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-# My Hobbies ⚡️
+# My Hobbies 🐱
 I enjoy exploring new places and capturing memories through photography
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/p1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
