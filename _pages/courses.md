@@ -43,7 +43,7 @@ author_profile: true
   COMP3234 Computer and communication networks  
   COMP3270 Artifical intelligence  
   ELEC3249 Pattern recognition and machine intelligence  
-  ELEC3848 Integrated design project  
+  ELEC3848 Integrated design projects  
   ELEC3844 Engineering management and society  
   ELEC3841 Internship program  
   CENG9001 Practical Chinese for Engineering Students  
