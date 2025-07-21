@@ -7,7 +7,7 @@ author_profile: true
 
 # Courses (The University of Hong Kong)
 
-- **2022 ~ 2023**:  
+- **2022 ~ 2023** (72 credits):  
   ENGG1300 Fundamental mechanics  
   ENGG1310 Electricity and electronics  
   ENGG1320 Engineers in the modern world  
@@ -22,7 +22,7 @@ author_profile: true
   CCCH9006 China's Modernization in the East Asian Context  
   Linear Algebra (W. Gilbert Strang, MIT)  
 
-- **2023 ~ 2024**:  
+- **2023 ~ 2024** (72 credits):  
   ENGG1340 Computer programming II  
   COMP2121 Discrete mathematics  
   COMP2119 Introduction to data structures and algorithms  
@@ -36,7 +36,7 @@ author_profile: true
   FINA1310 Corporate finance  
   CCGL9042 The Evolution of Civilization  
 
-- **2024 ~ 2025**:  
+- **2024 ~ 2025** (60 credits):  
   COMP3230 Principles of operating systems  
   COMP3278 Introduction to database management systems  
   COMP3297 Software engineering  
