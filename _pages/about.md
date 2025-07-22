@@ -20,7 +20,7 @@ redirect_from:
 ~ last modified: 7/15/2025
 
 # Wangpok Tse (谢宏博)
-- I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**. I am interested in **Generative AI** and **3D Computer Vision**, especially in **Character Animation**. Hope my research works can be useful in the game/movie industry. Additionally, I am also interested in **Quantitative Finance** and **AI in Investment**.
+- I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**. I am interested in **Generative AI** and **3D Computer Vision**, especially in **Digital Human**. Hope my research works can be useful in the game/movie industry. Additionally, I am also interested in **Quantitative Finance** and **AI in Investment**.
 
 
 # Educations
