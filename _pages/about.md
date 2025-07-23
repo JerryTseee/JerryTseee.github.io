@@ -62,7 +62,7 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>Algorithmic Stock Trading Strategies</strong><br>
-    Python implementation for different stock trading strategies, including implementation module, backtesting module, visualization module. Eg:<br>
+    Python implementation for different stock trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module. Eg:<br>
     - Russel 2000 rebalancing strategy <br>
     - Rubber band trading strategy <br>
     - MFI indicator strategy <br>
