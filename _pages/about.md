@@ -67,7 +67,7 @@ redirect_from:
     - Rubber band trading strategy <br>
     - MFI indicator strategy <br>
     - S&P 500, gold, and bonds rotation momentum strategy <br>
-    - The turn of the month strategy <br>
+    - LSTM model for stock prediction <br>
     [<a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
   </div>
 </div>
