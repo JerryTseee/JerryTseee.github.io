@@ -72,6 +72,22 @@ redirect_from:
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
+    <img src="/images/logo.png" alt="Qfin" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
+  </div>
+  <div style="flex: 2;">
+    <strong>SentimentSage: A Market News Sentiment Analysis AI Software with RAG</strong><br>
+    Python implementation for different stock trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module. Eg:<br>
+    - Russel 2000 rebalancing strategy <br>
+    - Rubber band trading strategy <br>
+    - MFI indicator strategy <br>
+    - S&P 500, gold, and bonds rotation momentum strategy <br>
+    - LSTM model for stock prediction <br>
+    [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">webpage</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
+  </div>
+</div>
+
 # Honors and Awards
 - *2023 - 2024* HKU Dean's Award for Engineering Student Scholarship
 - *2022 - 2023* HKU Dean's Award for Engineering Student Scholarship
