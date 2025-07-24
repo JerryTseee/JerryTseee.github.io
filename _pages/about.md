@@ -78,7 +78,7 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage: A Market News Sentiment Analysis AI Software with RAG</strong><br>
-    SentimentSage is a powerful AI-driven platform designed to provide deep insights and analytics on financial news and market sentiment. By leveraging cutting-edge Natural Language Processing (NLP) models like FinBERT, combined with advanced Retrieval-Augmented Generation (RAG) technology, SentimentSage can quickly analyze vast amounts of financial data, extract sentiment, and generate accurate, actionable investment summaries. SentimentSage empowers you to stay ahead of market trends with real-time sentiment analysis and risk assessments. <br>
+    SentimentSage is a powerful AI-driven platform designed to provide deep insights and analytics on financial news and market sentiment. By leveraging cutting-edge Natural Language Processing (NLP) models like FinBERT, combined with advanced Retrieval-Augmented Generation (RAG) technology, it can quickly analyze vast amounts of financial data, extract sentiment, and generate accurate risk summaries. SentimentSage empowers you to stay ahead of market trends with real-time sentiment analysis and risk assessments. <br>
     [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">webpage</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
   </div>
 </div>
