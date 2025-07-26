@@ -42,14 +42,15 @@ I’ve been drawing and sketching since I was a child. And now I draw some occas
 </div>
 
 
-# Fun Facts About Me 😎
-- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and rap music
-- I can speak three languages, English, Mandarin, and Cantonese.
-- I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
-
-
 # Volunteer Experiences ✨
 - 2025 SJTU "Save the Traditional Villages in China" Workshop
 - 2025 Robocon Hong Kong Student Volunteer
 - Hong Kong Hakka Associations Student Volunteer
 - 2023 BTP Yunnan Program Summer Volunteer Teacher
+
+
+
+# Fun Facts About Me 😎
+- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and rap music
+- I can speak three languages, English, Mandarin, and Cantonese.
+- I am "half HongKonger, half Sichuaner", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
