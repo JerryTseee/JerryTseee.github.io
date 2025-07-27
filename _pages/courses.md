@@ -51,4 +51,5 @@ author_profile: true
   GAMES101 Computer Graphics (Lingqi Yan, UCSB)  
   CS231n Deep Learning for Computer Vision (Fei-Fei Li, Stanford)  
   CS61C Computer Organization (UCB)  
+  CS571 Building UI (University of Wisconsin, Madison)  
   Machine Learning (Hung-yi Lee, NTU)  
