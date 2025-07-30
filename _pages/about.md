@@ -29,7 +29,7 @@ redirect_from:
 - *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heung To Middle School
 
 # Industry Experiences
-- *2025.06 - 2025.09*, **AI Agent Developer Intern** at the [**BPS Global Management Limited, Hong Kong**](https://bps-group.net/en/).
+- *2025.06 - 2025.09*, **AI Agent Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
 # Research Experiences
