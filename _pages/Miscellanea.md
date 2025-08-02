@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # My Hobbies 🐱
-I enjoy exploring new places and capturing memories through photography
+I like travelling, and record the world
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/p1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
   <img src="/images/p2.jpg" alt="wolf 2" style="width: 150px; height: auto;">
@@ -28,7 +28,7 @@ I enjoy exploring new places and capturing memories through photography
   <img src="/images/guilin.jpg" alt="moonnight" style="width: 150px; height: auto;">
 </div>
 
-I’ve been drawing and sketching since I was a child. And now I draw some occasionally, here are some of my works 🛠️🛠️🛠️
+And I like drawing
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/wolf1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
