@@ -14,7 +14,6 @@ I like travelling, and record the world
   <img src="/images/p4.jpg" alt="batman" style="width: 150px; height: auto;">
   <img src="/images/p5.jpg" alt="girl" style="width: 150px; height: auto;">
   <img src="/images/p6.jpg" alt="god" style="width: 150px; height: auto;">
-  <img src="/images/p7.jpg" alt="scary" style="width: 150px; height: auto;">
   <img src="/images/p8.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/p9.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/p10.jpg" alt="moonnight" style="width: 150px; height: auto;">
