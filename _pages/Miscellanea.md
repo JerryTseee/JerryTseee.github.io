@@ -28,6 +28,7 @@ I like travelling, and record the world
   <img src="/images/guilin.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/BJ.jpg" alt="moonnight" style="width: 150px; height: auto;">
   <img src="/images/lj.jpg" alt="moonnight" style="width: 150px; height: auto;">
+  <img src="/images/bz.jpg" alt="moonnight" style="width: 150px; height: auto;">
 </div>
 
 And I like drawing
