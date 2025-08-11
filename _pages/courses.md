@@ -54,14 +54,14 @@ author_profile: true
   CS571 Building UI (University of Wisconsin, Madison)  
   Machine Learning (Hung-yi Lee, NTU)
 
-- **2025 ~ 2026** (66 credits):
-  ELEC3342 Digital system design
-  ELEC3442 Embedded systems
-  ELEC4542 Introduction to deep learning
-  ELEC4547 Emergency technology for AR/VR
-  ELEC4848 Final year project
-  COMP3360 Character animation
-  CAES9541 English for engineering student
-  ACCT2106 Introduction to management accounting
-  FINA2312 Advanced corporate finance
-  FINA4350 Text analytics and NPL in fintech
+- **2025 ~ 2026** (66 credits):  
+  ELEC3342 Digital system design  
+  ELEC3442 Embedded systems  
+  ELEC4542 Introduction to deep learning  
+  ELEC4547 Emergency technology for AR/VR  
+  ELEC4848 Final year project  
+  COMP3360 Character animation  
+  CAES9541 English for engineering student  
+  ACCT2106 Introduction to management accounting  
+  FINA2312 Advanced corporate finance  
+  FINA4350 Text analytics and NPL in fintech  
