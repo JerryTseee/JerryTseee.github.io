@@ -51,6 +51,6 @@ And I like drawing
 
 
 # Fun Facts About Me 😎
-- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and rap music.
+- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and guitar.
 - I can speak four languages, English, Cantonese, Mandarin, and Southwestern Mandarin.
 - I am "half HongKonger, half Sichuanese", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
