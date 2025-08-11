@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-~ last modified: 7/26/2025
+~ last modified: 8/11/2025
 
 # Wangpok Tse (谢宏博)
 - I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**. I am interested in **Generative AI** and **3D Computer Vision**, especially in **Digital Human**. Hope my research works can be useful in the game/movie industry. Additionally, I am also interested in **Quantitative Finance** and **AI in Investment**.
@@ -49,7 +49,7 @@ redirect_from:
     <br>
     Symposium on Computer Animation (SCA) 2025<br>
     *Joint first author<br>
-    [<a href="https://hku-cg.github.io/interact/">webpage</a>] [<a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">video</a>]
+    [<a href="https://hku-cg.github.io/interact/">webpage</a>] [<a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">video</a>] [<a href="https://dl.acm.org/doi/10.1145/3747871">paper</a>]
   </div>
 </div>
 
