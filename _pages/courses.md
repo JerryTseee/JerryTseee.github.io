@@ -64,5 +64,5 @@ author_profile: true
   CAES9541 English for engineering student  
   ACCT2106 Introduction to management accounting  
   FINA2312 Advanced corporate finance  
-  FINA4350 Text analytics and NPL in fintech  
+  FINA4350 Text analytics and NLP in fintech  
   Introduction to architecture (Tongji University)  
