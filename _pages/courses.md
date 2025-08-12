@@ -67,3 +67,4 @@ author_profile: true
   FINA4350 Text analytics and NLP in fintech  
   Introduction to architecture (Tongji University)  
   Architecture design (Harvard University)  
+  History of Chinese Architecture (Tsinghua University)  
