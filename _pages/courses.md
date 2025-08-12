@@ -65,4 +65,5 @@ author_profile: true
   ACCT2106 Introduction to management accounting  
   FINA2312 Advanced corporate finance  
   FINA4350 Text analytics and NLP in fintech  
-  Introduction to architecture (Tongji University)  
+  Introduction to architecture (Tongji University)
+  Architecture design (Harvard University)
