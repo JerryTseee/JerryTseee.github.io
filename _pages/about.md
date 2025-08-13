@@ -24,9 +24,9 @@ redirect_from:
 
 
 # Educations
-- *2022.09 - 2027.06*, Bachelor of Business Administration in finance (double degree), the University of Hong Kong
-- *2022.09 - 2026.06*, Bachelor of Engineering in computer engineering (double degree), the University of Hong Kong
-- *2019.09 - 2022.05*, Hong Kong Kowloon Tong Heung To Middle School
+- *2027*, Bachelor of Business Administration in finance (double degree), the University of Hong Kong
+- *2026*, Bachelor of Engineering in computer engineering (double degree), the University of Hong Kong
+- *2022*, Hong Kong Kowloon Tong Heungto Middle School
 
 # Industry Experiences
 - *2025.06 - 2025.09*, **AI Agent Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
