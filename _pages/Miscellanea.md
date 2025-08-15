@@ -31,6 +31,8 @@ I like travelling, and record the world
 And I like drawing
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/r.jpg" alt="wolf 1" style="width: 150px; height: auto;">
+  <img src="/images/m.jpg" alt="wolf 1" style="width: 150px; height: auto;">
   <img src="/images/wolf1.jpg" alt="wolf 1" style="width: 150px; height: auto;">
   <img src="/images/wolf2.jpg" alt="wolf 2" style="width: 150px; height: auto;">
   <img src="/images/T.jpg" alt="T" style="width: 150px; height: auto;">
