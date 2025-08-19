@@ -61,3 +61,5 @@ And I like drawing
   <img src="/images/guitar.jpg" alt="wolf 1" style="width: 150px; height: auto;">
   <img src="/images/photography.jpg" alt="wolf 1" style="width: 150px; height: auto;">
 </div>
+
+<br>
