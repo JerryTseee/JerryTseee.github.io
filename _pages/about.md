@@ -27,6 +27,7 @@ redirect_from:
 - *2022 - 2027*, Bachelor of Business Administration in finance, the University of Hong Kong
 - *2022 - 2026*, Bachelor of Engineering in computer engineering, the University of Hong Kong
 - *2019 - 2022*, Hong Kong Kowloon Tong Heung To Middle School
+- *2018 - 2019*, No.1 High School of Doumen, Zhuhai
 
 # Industry Experiences
 - *2025.06 - 2025.09*, **AI Agent Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
