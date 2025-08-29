@@ -24,8 +24,8 @@ redirect_from:
 
 
 # Educations
-- *2022 - 2027*, Bachelor of Business Administration in finance, the University of Hong Kong
-- *2022 - 2026*, Bachelor of Engineering in computer engineering, the University of Hong Kong
+- *2022 - 2027*, BBA in finance, the University of Hong Kong (double degree program)
+- *2022 - 2026*, BEng in computer engineering, the University of Hong Kong (double degree program)
 - *2019 - 2022*, Hong Kong Kowloon Tong Heung To Middle School
 - *2018 - 2019*, No.1 High School of Doumen, Zhuhai
 
