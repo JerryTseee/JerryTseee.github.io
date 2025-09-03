@@ -56,17 +56,26 @@ And I like drawing
       《上海大学建筑遗产保护中心, 2025“拯救传统村落”工作营成果展示》
     </a>
   </p>
-  <p>Vestibulum accumsan, nisl in facilisis fermentum, justo lorem tincidunt enim, vitae cursus purus lorem at nulla.</p>
-  <p>Praesent eget sem a sapien tristique euismod.</p>
-  <p>Aliquam erat volutpat. Pellentesque nec quam nec justo tincidunt aliquam.</p>
-  <p>Nullam blandit, nisl ac vulputate tincidunt, nisi eros tincidunt justo, nec posuere purus nunc quis velit.</p>
-  <p>Etiam at sapien id justo sollicitudin sollicitudin.</p>
-  <p>Morbi luctus, elit sed vehicula fermentum, eros libero dapibus leo, in vehicula velit nisl ut ante.</p>
-  <p>Sed ac dui id est sollicitudin imperdiet ac ac risus.</p>
-  <p>Nam ut nisi vitae ex vestibulum fermentum.</p>
-  <p>Donec at arcu eget justo tincidunt dictum.</p>
-  <p>In hac habitasse platea dictumst.</p>
-  <p>Integer in erat sit amet nunc tincidunt bibendum.</p>
+  <p>
+    <a href="https://hkhakka.com/activities/2023-2024%e5%b9%b4%e5%ba%a6%e5%ae%a2%e5%ae%b6%e5%ad%90%e5%bc%9f%e7%8d%8e%e5%8a%a9%e5%ad%b8%e9%87%91%e9%a0%92%e7%8d%8e%e5%85%b8%e7%a6%ae%e5%9c%93%e6%bb%bf%e8%88%89%e8%a1%8c/">
+      《2024年度客家子弟獎助學金頒獎典禮圓滿舉行》
+    </a>
+  </p>
+  <p>
+    <a href="https://hkhakka.com/activities/%e9%a6%99%e6%b8%af%e5%ae%a2%e5%b1%ac%e7%b8%bd%e6%9c%83%e9%9d%92%e5%b9%b4%e9%83%a8%e8%88%89%e8%be%a6%e7%a6%8f%e5%bb%ba%e5%ad%b8%e7%bf%92%e4%ba%a4%e6%b5%81%e5%9c%98/">
+      《香港客屬總會青年部舉辦福建學習交流團》
+    </a>
+  </p>
+  <p>
+    <a href="https://hkhakka.com/activities/2022-2023%e5%b9%b4%e5%ba%a6%e5%ae%a2%e5%ae%b6%e5%ad%90%e5%bc%9f%e7%8d%8e%e5%8a%a9%e5%ad%b8%e9%87%91%e9%a0%92%e7%8d%8e%e5%85%b8%e7%a6%ae%e5%9c%93%e6%bb%bf%e8%88%89%e8%a1%8c/">
+      《2023年度客家子弟獎助學金頒獎典禮圓滿舉行》
+    </a>
+  </p>
+  <p>
+    <a href="https://mp.weixin.qq.com/s/PzIgrw0GnTRxF-ZbWTHHOg">
+      《2023香港大学BTP云之彼端项目组云南支教报告》
+    </a>
+  </p>
 </div>
 
 <br>
