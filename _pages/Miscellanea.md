@@ -59,7 +59,7 @@ And I like drawing
 <div style="max-width: 800px; margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; background-color: #f9f9f9; height: 100px; overflow-y: scroll; text-align: left;">
   <p>
     <a href="https://mp.weixin.qq.com/s/V8Fb1FWmlL-dcM2A_ly4tw" target="_blank">
-      《上海大学建筑遗产保护中心, 2025“拯救传统村落”工作营成果展示》
+      《上海交通大学建筑遗产保护中心, 2025“拯救传统村落”工作营成果展示》
     </a>
   </p>
   <p>
