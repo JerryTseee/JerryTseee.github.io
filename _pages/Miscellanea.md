@@ -78,8 +78,6 @@ And I like drawing
   </p>
 </div>
 
-<br>
-
 # Fun Facts About Me 😎
 - I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and guitar.
 - I can speak four languages, English, Cantonese, Mandarin, and Southwestern Mandarin.
