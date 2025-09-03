@@ -51,7 +51,7 @@ And I like drawing
 - 2023 BTP Yunnan Program Summer Volunteer Teacher
 
 <div style="max-width: 800px; margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; background-color: #f9f9f9; height: 100px; overflow-y: scroll; text-align: left;">
-  <p>《上海大学建筑遗产保护中心, 2025“拯救传统村落”工作营成果展示》(https://mp.weixin.qq.com/s/V8Fb1FWmlL-dcM2A_ly4tw)</p>
+  <p>[《上海大学建筑遗产保护中心, 2025“拯救传统村落”工作营成果展示》](https://mp.weixin.qq.com/s/V8Fb1FWmlL-dcM2A_ly4tw)</p>
   <p>Vestibulum accumsan, nisl in facilisis fermentum, justo lorem tincidunt enim, vitae cursus purus lorem at nulla.</p>
   <p>Praesent eget sem a sapien tristique euismod.</p>
   <p>Aliquam erat volutpat. Pellentesque nec quam nec justo tincidunt aliquam.</p>
