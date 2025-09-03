@@ -63,6 +63,11 @@ And I like drawing
     </a>
   </p>
   <p>
+    <a href="https://www.hkstp.org/en/park-life/news-and-events/news/robocon-2025">
+      《2025 Robocon Hong Kong Contest 机器人大赛香港赛区》
+    </a>
+  </p>
+  <p>
     <a href="https://hkhakka.com/activities/2023-2024%e5%b9%b4%e5%ba%a6%e5%ae%a2%e5%ae%b6%e5%ad%90%e5%bc%9f%e7%8d%8e%e5%8a%a9%e5%ad%b8%e9%87%91%e9%a0%92%e7%8d%8e%e5%85%b8%e7%a6%ae%e5%9c%93%e6%bb%bf%e8%88%89%e8%a1%8c/">
       《2024年度客家子弟獎助學金頒獎典禮圓滿舉行》
     </a>
