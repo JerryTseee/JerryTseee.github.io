@@ -50,7 +50,7 @@ And I like drawing
 - Hong Kong Hakka Associations Student Volunteer
 - 2023 BTP Yunnan Program Summer Volunteer Teacher
 
-<div style="max-width: 600px; margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; background-color: #f9f9f9; height: 200px; overflow-y: scroll; text-align: left;">
+<div style="max-width: 800px; margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; background-color: #f9f9f9; height: 100px; overflow-y: scroll; text-align: left;">
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   <p>Vestibulum accumsan, nisl in facilisis fermentum, justo lorem tincidunt enim, vitae cursus purus lorem at nulla.</p>
   <p>Praesent eget sem a sapien tristique euismod.</p>
