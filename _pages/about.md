@@ -83,7 +83,7 @@ redirect_from:
   </div>
 </div>
 
-# Honors and Awards
+# Honors & Awards
 - *2023 - 2024* HKU Dean's Award for Engineering Student Scholarship ($10000)
 - *2022 - 2023* HKU Dean's Award for Engineering Student Scholarship ($10000)
 - *2023* GBAI HK-Macau Student Innovation and Entrepreneurship Camp 2nd Award
