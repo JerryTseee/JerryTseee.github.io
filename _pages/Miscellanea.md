@@ -50,6 +50,12 @@ And I like drawing
 - Hong Kong Hakka Associations Student Volunteer
 - 2023 BTP Yunnan Program Summer Volunteer Teacher
 
+
+# Fun Facts About Me 😎
+- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and guitar.
+- I can speak four languages, English, Cantonese, Mandarin, and Southwestern Mandarin.
+- I am "half HongKonger, half Sichuanese", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
+
 <div style="max-width: 800px; margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; background-color: #f9f9f9; height: 100px; overflow-y: scroll; text-align: left;">
   <p>
     <a href="https://mp.weixin.qq.com/s/V8Fb1FWmlL-dcM2A_ly4tw" target="_blank">
@@ -77,11 +83,6 @@ And I like drawing
     </a>
   </p>
 </div>
-
-# Fun Facts About Me 😎
-- I am also interested in fencing (HKU Epee fencing team), photography, drawing, basketball and guitar.
-- I can speak four languages, English, Cantonese, Mandarin, and Southwestern Mandarin.
-- I am "half HongKonger, half Sichuanese", and I used to live in Zhuhai (a beautiful small city) for more than 10 years.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/guitar.jpg" alt="wolf 1" style="width: 150px; height: auto;">
