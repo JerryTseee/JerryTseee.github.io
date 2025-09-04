@@ -36,7 +36,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 15px; margin-bottom: 30px;">
   <img src="/images/hku.jpg" alt="HKU Logo" style="height: 70px; object-fit: contain;">
-  <img src="/images/heungto.jpg" alt="Heung To Middle School Logo" style="height: 70px; object-fit: contain;">
+  <img src="/images/heungto.png" alt="Heung To Middle School Logo" style="height: 70px; object-fit: contain;">
 </div>
 
 # Industry Experiences
