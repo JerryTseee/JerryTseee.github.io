@@ -34,7 +34,7 @@ redirect_from:
 - *2022 - 2026*, BEng in computer engineering, the University of Hong Kong (double degree program)
 - *2019 - 2022*, Hong Kong Kowloon Tong Heung To Middle School
 
-<div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 15px; margin-bottom: 30px;">
+<div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 15px; margin-bottom: 10px;">
   <img src="/images/hku.jpg" alt="HKU Logo" style="height: 70px; object-fit: contain;">
   <img src="/images/heungto.png" alt="Heung To Middle School Logo" style="height: 70px; object-fit: contain;">
 </div>
