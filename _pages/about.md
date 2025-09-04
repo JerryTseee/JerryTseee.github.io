@@ -34,6 +34,11 @@ redirect_from:
 - *2022 - 2026*, BEng in computer engineering, the University of Hong Kong (double degree program)
 - *2019 - 2022*, Hong Kong Kowloon Tong Heung To Middle School
 
+<div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 15px; margin-bottom: 30px;">
+  <img src="/images/hku.jpg" alt="HKU Logo" style="height: 70px; object-fit: contain;">
+  <img src="/images/heungto.jpg" alt="Heung To Middle School Logo" style="height: 70px; object-fit: contain;">
+</div>
+
 # Industry Experiences
 - *2025.06 - 2025.09*, **AI Agent Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
