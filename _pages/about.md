@@ -35,10 +35,10 @@ redirect_from:
 - *2019 - 2022*, Hong Kong Kowloon Tong Heung To Middle School
 
 <div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 15px; margin-bottom: 10px;">
-  <img src="/images/bs.png" alt="HKU Logo" style="height: 50px; object-fit: contain;">
-  <img src="/images/eee.png" alt="HKU Logo" style="height: 50px; object-fit: contain;">
-  <img src="/images/hku.jpg" alt="HKU Logo" style="height: 50px; object-fit: contain;">
-  <img src="/images/heungto.png" alt="Heung To Middle School Logo" style="height: 50px; object-fit: contain;">
+  <img src="/images/bs.png" alt="HKU Logo" style="height: 45px; object-fit: contain;">
+  <img src="/images/eee.png" alt="HKU Logo" style="height: 45px; object-fit: contain;">
+  <img src="/images/hku.jpg" alt="HKU Logo" style="height: 45px; object-fit: contain;">
+  <img src="/images/heungto.png" alt="Heung To Middle School Logo" style="height: 45px; object-fit: contain;">
 </div>
 
 # Industry Experiences
@@ -46,8 +46,8 @@ redirect_from:
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
 # Research Experiences
-- *2025.06 - Present*, **Research Assistant** at the [**HKUST Intelligent Graphics Lab**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
-- *2024.05 - 2025.04*, **Research Assistant** at the [**HKU Computer Graphics and Visualization Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
+- *2025.06 - Present*, **Research Assistant** at the [**HKUST IGL**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
+- *2024.05 - 2025.04*, **Research Assistant** at the [**HKU CGVU Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
 
 
 # Publications
