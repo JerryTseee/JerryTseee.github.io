@@ -23,7 +23,7 @@ redirect_from:
 - Hi! I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**. I am interested in **Generative AI** and **3D Computer Vision**, especially in **Digital Humans**. Hope my research works can be useful in the game and movie industry. Additionally, I am also interested in **Quantitative Finance** and **AI for Investment**.
 
 <details>
-<summary><strong>[中文介绍]</strong></summary>
+<summary><strong>[中文介绍 Chinese Version]</strong></summary>
 <div style="margin-top: 15px; padding-left: 20px; border-left: 3px solid #eee;">
 <p>你好！我是香港大学的本科生，正在攻读计算机工程工学学士和金融工商管理学士双学位。我对生成式人工智能和3D计算机视觉领域，特别是数字人技术有浓厚兴趣。希望我的研究工作能够对游戏和电影产业有所贡献。此外，我也对量化金融和人工智能投资领域感兴趣。欢迎交流和关注我的小红书账号：JerryTsee</p>
 </div>
