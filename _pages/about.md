@@ -77,9 +77,8 @@ redirect_from:
     <strong>Algorithmic Stock Trading Strategies</strong><br>
     Python implementation for different stock trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module. Eg:<br>
     - Russel 2000 rebalancing strategy <br>
-    - Rubber band trading strategy <br>
-    - MFI indicator strategy <br>
     - S&P 500, gold, and bonds rotation momentum strategy <br>
+    - Generative Adversarial Network for stock prediction <br>
     - LSTM model for stock prediction <br>
     [<a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
   </div>
@@ -91,7 +90,7 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage: A Stock Market News Sentiment Analysis AI Software with RAG</strong><br>
-    SentimentSage is a powerful AI-driven platform designed to provide deep insights and analytics on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with advanced Retrieval-Augmented Generation (RAG) technology, it can quickly analyze vast amounts of financial news, extract sentiment, and generate real-time sentiment analysis. <br>
+    SentimentSage is a powerful AI-driven platform designed to provide deep insights and analytics on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze vast amounts of financial news, extract sentiment, and generate real-time sentiment analysis. <br>
     [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">webpage</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
   </div>
 </div>
