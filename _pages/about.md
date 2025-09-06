@@ -42,7 +42,7 @@ redirect_from:
 </div>
 
 # Industry Experiences
-- *2025.06 - 2025.09*, **AI Agent Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
+- *2025.06 - 2025.09*, **AI Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
 
 # Research Experiences
