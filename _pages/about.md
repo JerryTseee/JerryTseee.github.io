@@ -42,12 +42,12 @@ redirect_from:
 </div>
 
 # Industry Experiences
-- *2025.06 - 2025.09*, **AI Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/).
-- *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/).
+- *2025.06 - 2025.09*, **AI Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/)
+- *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/)
 
 # Research Experiences
-- *2025.06 - Present*, **Research Assistant** at the [**HKUST IGL**](https://github.com/IGL-HKUST), supervised by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/).
-- *2024.05 - 2025.04*, **Research Assistant** at the [**HKU CGVU Lab**](https://hku-cg.github.io/), supervised by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/).
+- *2025.06 - Present*, **Research Assistant** at the [**HKUST IGL**](https://github.com/IGL-HKUST) (Led by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/))
+- *2024.05 - 2025.04*, **Research Assistant** at the [**HKU CGVU Lab**](https://hku-cg.github.io/) (Led by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/))
 
 
 # Publications
