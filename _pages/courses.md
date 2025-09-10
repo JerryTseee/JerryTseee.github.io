@@ -47,7 +47,7 @@ author_profile: true
   ELEC3844 Engineering management and society  
   ELEC3841 Internship program  
   CENG9001 Practical Chinese for Engineering Students  
-  FINA2320 Investments and Portfolio Analysis (University of International Business and Economics, virtual exchange)  
+  FINA2320 Investments and Portfolio Analysis (University of International Business and Economics)  
   GAMES101 Computer Graphics (Lingqi Yan, UCSB)  
   CS231n Deep Learning for Computer Vision (Fei-Fei Li, Stanford)  
   CS61C Computer Organization (UCB)  
