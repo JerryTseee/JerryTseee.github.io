@@ -89,7 +89,7 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage: A Stock Market News Sentiment Analysis AI Software with RAG</strong><br>
-    The platform provides deep analysis on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze financial news, extract sentiment, and generate real-time sentiment analysis report. <br>
+    The platform provides deep analysis on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze financial news, extract sentiment, and generate real-time report. <br>
     [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">webpage</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
   </div>
 </div>
