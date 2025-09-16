@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-# Courses (The University of Hong Kong)
+# Courses @ HKU
 
 - **2025 ~ 2026 (66 credits)**:  
   ELEC3342 Digital system design  
