@@ -54,7 +54,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
-    <img src="/images/interact.jpg" alt="InterAct Dataset" style="width: 90%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/interact.jpg" alt="InterAct Dataset" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios</strong><br>
@@ -71,7 +71,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
-    <img src="/images/stock.jpeg" alt="Qfin" style="width: 90%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/stock.jpeg" alt="Qfin" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>Algorithmic Stock Trading Strategies</strong><br>
@@ -85,7 +85,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
-    <img src="/images/logo.png" alt="Qfin" style="width: 75%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/logo.png" alt="Qfin" style="width: 70%; height: auto; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage: A Stock Market News Sentiment Analysis AI Software with RAG</strong><br>
