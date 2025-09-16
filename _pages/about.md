@@ -54,7 +54,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
-    <img src="/images/mp.jpg" alt="InterAct Dataset" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/ms.jpg" alt="moper" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>MotionPersona: Characteristics-aware Locomotion Control</strong><br>
