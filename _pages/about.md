@@ -29,7 +29,7 @@ redirect_from:
 </div>
 </details>
 
-# Educations
+# Education
 - *2022 - 2027*, BBA in finance, the University of Hong Kong (double degree program)
 - *2022 - 2026*, BEng in computer engineering, the University of Hong Kong (double degree program)
 - *2019 - 2022*, Hong Kong Kowloon Tong Heung To Middle School
@@ -41,11 +41,11 @@ redirect_from:
   <img src="/images/heungto.png" alt="Heung To Middle School Logo" style="height: 50px; object-fit: contain;">
 </div>
 
-# Industry Experiences
+# Industry Experience
 - *2025.06 - 2025.09*, **AI Developer Intern** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/)
 - *2023.12 - 2024.01*, **Data Scientist AI Intern** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/)
 
-# Research Experiences
+# Research Experience
 - *2025.06 - Present*, **Research Assistant** at the [**HKUST IGL**](https://github.com/IGL-HKUST) (Led by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/))
 - *2024.05 - 2025.04*, **Research Assistant** at the [**HKU CGVU Lab**](https://hku-cg.github.io/) (Led by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/))
 
