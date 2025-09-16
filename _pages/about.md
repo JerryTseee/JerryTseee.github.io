@@ -66,6 +66,20 @@ redirect_from:
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
+    <img src="/images/interact.jpg" alt="InterAct Dataset" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
+  </div>
+  <div style="flex: 2;">
+    <strong>InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios</strong><br>
+    Leo Ho*, Yinghao Huang*, Dafei Qin, Mingyi Shi, <strong>Wangpok Tse</strong>, Wei Liu, Junichi Yamagishi, Taku Komura<br>
+    <br>
+    Symposium on Computer Animation (SCA) 2025<br>
+    *Joint first author<br>
+    [<a href="https://hku-cg.github.io/interact/">webpage</a>] [<a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">video</a>] [<a href="https://dl.acm.org/doi/10.1145/3747871">paper</a>]
+  </div>
+</div>
+
 
 # Projects
 
