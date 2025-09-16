@@ -7,34 +7,21 @@ author_profile: true
 
 # Courses (The University of Hong Kong)
 
-- **2022 ~ 2023 (72 credits)**:  
-  ENGG1300 Fundamental mechanics  
-  ENGG1310 Electricity and electronics  
-  ENGG1320 Engineers in the modern world  
-  ENGG1330 Computer programming I  
-  ENGG1350 Thermofluid mechanics  
-  MATH1851 Calculus and ordinary differential equations  
-  MATH1853 Linear algebra, probability and statistics  
-  ACCT1101 Introduction to financial accounting  
-  CAES1000 Core University English  
-  CCST9038 Science and Science Fiction  
-  CCHU9058 Nature in the City: Beyond the Concrete Jungle  
-  CCCH9006 China's Modernization in the East Asian Context  
-  Linear Algebra (W. Gilbert Strang, MIT)  
-
-- **2023 ~ 2024 (72 credits)**:  
-  ENGG1340 Computer programming II  
-  COMP2121 Discrete mathematics  
-  COMP2119 Introduction to data structures and algorithms  
-  ELEC2346 Electric circuit theory  
-  ELEC2844 Probabilistic systems analysis  
-  ELEC2441 Computer organization and microprocessors  
-  ELEC2840 Engineering training  
-  IIMT2601 Management information systems  
-  ECON1210 Introductory microeconomics  
-  ECON1220 Introductory macroeconomics  
-  FINA1310 Corporate finance  
-  CCGL9042 The Evolution of Civilization  
+- **2025 ~ 2026 (66 credits)**:  
+  ELEC3342 Digital system design  
+  ELEC3442 Embedded systems  
+  ELEC4542 Introduction to deep learning  
+  ELEC4547 Emergency technology for AR/VR  
+  ELEC4848 Final year project  
+  COMP3360 Character animation  
+  CAES9541 English for engineering student  
+  ACCT2106 Introduction to management accounting  
+  FINA2312 Advanced corporate finance  
+  FINA4350 Text analytics and NLP in fintech  
+  Introduction to architecture (Tongji University)  
+  Architecture design (Harvard University)  
+  Architecture design (Southeast University)  
+  History of Chinese Architecture (Tsinghua University)
 
 - **2024 ~ 2025 (60 credits)**:  
   COMP3230 Principles of operating systems  
@@ -54,19 +41,31 @@ author_profile: true
   CS571 Building UI (University of Wisconsin, Madison)  
   Machine Learning (Hung-yi Lee, NTU)
 
-- **2025 ~ 2026 (66 credits)**:  
-  ELEC3342 Digital system design  
-  ELEC3442 Embedded systems  
-  ELEC4542 Introduction to deep learning  
-  ELEC4547 Emergency technology for AR/VR  
-  ELEC4848 Final year project  
-  COMP3360 Character animation  
-  CAES9541 English for engineering student  
-  ACCT2106 Introduction to management accounting  
-  FINA2312 Advanced corporate finance  
-  FINA4350 Text analytics and NLP in fintech  
-  Introduction to architecture (Tongji University)  
-  Architecture design (Harvard University)  
-  Architecture design (Southeast University)  
-  History of Chinese Architecture (Tsinghua University)  
-  
+- **2023 ~ 2024 (72 credits)**:  
+  ENGG1340 Computer programming II  
+  COMP2121 Discrete mathematics  
+  COMP2119 Introduction to data structures and algorithms  
+  ELEC2346 Electric circuit theory  
+  ELEC2844 Probabilistic systems analysis  
+  ELEC2441 Computer organization and microprocessors  
+  ELEC2840 Engineering training  
+  IIMT2601 Management information systems  
+  ECON1210 Introductory microeconomics  
+  ECON1220 Introductory macroeconomics  
+  FINA1310 Corporate finance  
+  CCGL9042 The Evolution of Civilization  
+
+- **2022 ~ 2023 (72 credits)**:  
+  ENGG1300 Fundamental mechanics  
+  ENGG1310 Electricity and electronics  
+  ENGG1320 Engineers in the modern world  
+  ENGG1330 Computer programming I  
+  ENGG1350 Thermofluid mechanics  
+  MATH1851 Calculus and ordinary differential equations  
+  MATH1853 Linear algebra, probability and statistics  
+  ACCT1101 Introduction to financial accounting  
+  CAES1000 Core University English  
+  CCST9038 Science and Science Fiction  
+  CCHU9058 Nature in the City: Beyond the Concrete Jungle  
+  CCCH9006 China's Modernization in the East Asian Context  
+  Linear Algebra (W. Gilbert Strang, MIT)  
