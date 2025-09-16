@@ -85,7 +85,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
-    <img src="/images/logo.png" alt="Qfin" style="width: 80%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+    <img src="/images/logo.png" alt="Qfin" style="width: 75%; height: auto; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage: A Stock Market News Sentiment Analysis AI Software with RAG</strong><br>
