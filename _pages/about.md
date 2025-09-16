@@ -58,7 +58,7 @@ redirect_from:
   </div>
   <div style="flex: 2;">
     <strong>MotionPersona: Characteristics-aware Locomotion Control</strong><br>
-    Mingyi Shi, Wei Liu, Jidong Mei, <strong>Wangpok Tse</strong>, Rui Chen, Taku Komura<br>
+    Mingyi Shi, Wei Liu, Jidong Mei, <strong>Wangpok Tse</strong>, Rui Chen, Xuelin Chen, Taku Komura<br>
     <br>
     Arxiv Preprint 2025<br>
     [<a href="https://motionpersona25.github.io/">webpage</a>] [<a href="https://github.com/MotionPersona25/MotionPersona_Unity">unity demo</a>] [<a href="https://arxiv.org/abs/2506.00173">paper</a>]
