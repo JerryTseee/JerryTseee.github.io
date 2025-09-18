@@ -7,26 +7,106 @@ author_profile: true
 
 # My Hobbies 🐱
 I like travelling, and record the world
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/p1.jpg" alt="wolf 1" style="width: 90px; height: auto;">
-  <img src="/images/p2.jpg" alt="wolf 2" style="width: 90px; height: auto;">
-  <img src="/images/p3.jpg" alt="T" style="width: 90px; height: auto;">
-  <img src="/images/p4.jpg" alt="batman" style="width: 90px; height: auto;">
-  <img src="/images/p5.jpg" alt="girl" style="width: 90px; height: auto;">
-  <img src="/images/p8.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/p10.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/p11.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/p12.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/p13.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/p14.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/p15.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/sh.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/maldives.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/guilin.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/BJ.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/lj.jpg" alt="moonnight" style="width: 90px; height: auto;">
-  <img src="/images/bz.jpg" alt="moonnight" style="width: 90px; height: auto;">
+
+<div class="travel-section">
+    <div id="map"></div>
+    <p style="text-align: center; font-style: italic;">Hover over city markers on the map to see photos!</p>
 </div>
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f4f4f4;
+    }
+    h1, h2 {
+        text-align: center;
+    }
+    #map {
+        height: 500px;
+        width: 100%;
+        margin: 20px 0;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+    }
+    .travel-section {
+        max-width: 800px;
+        margin: 0 auto;
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .custom-tooltip {
+        background: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 10px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        max-width: 300px;
+    }
+    .custom-tooltip img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 4px;
+        margin-top: 5px;
+    }
+</style>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    // Initialize the map centered on the world
+    var map = L.map('map').setView([20.0, 0.0], 2); // Global view, zoom level 2
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Define cities with coordinates and photo URLs
+    var cities = [
+        { name: 'Kuala Lumpur, Malaysia', coords: [3.1390, 101.6869], photo: '/images/p1.jpg' },
+        { name: 'Hong Kong', coords: [22.3193, 114.1694], photo: '/images/p2.jpg' },
+        { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p3.jpg' }, // Approximate center of Yunnan
+        { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p4.jpg' }, // Same for Yunnan 2
+        { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p5.jpg' }, // Same for Yunnan 3
+        { name: 'Guangzhou, China', coords: [23.1291, 113.2644], photo: '/images/p8.jpg' },
+        { name: 'Taipei, Taiwan', coords: [25.0320, 121.5654], photo: '/images/p10.jpg' },
+        { name: 'Taipei, Taiwan', coords: [25.0320, 121.5654], photo: '/images/p11.jpg' }, // Same for Taipei 2
+        { name: 'Fujian, China', coords: [26.0800, 119.2960], photo: '/images/p12.jpg' }, // Approximate center of Fujian
+        { name: 'Kaohsiung, Taiwan', coords: [22.6273, 120.3014], photo: '/images/p13.jpg' },
+        { name: 'Chongqing, China', coords: [29.5628, 106.5528], photo: '/images/p14.jpg' },
+        { name: 'Nanjing, China', coords: [32.0603, 118.7969], photo: '/images/p15.jpg' },
+        { name: 'Shanghai, China', coords: [31.2304, 121.4737], photo: '/images/sh.jpg' },
+        { name: 'Maldives', coords: [3.2028, 73.2207], photo: '/images/maldives.jpg' },
+        { name: 'Guilin, China', coords: [25.2743, 110.1081], photo: '/images/guilin.jpg' },
+        { name: 'Beijing, China', coords: [39.9042, 116.4074], photo: '/images/BJ.jpg' },
+        { name: 'Malacca, Malaysia', coords: [2.1896, 102.2501], photo: '/images/lj.jpg' },
+        { name: 'Guizhou, China', coords: [26.8154, 106.8748], photo: '/images/bz.jpg' } // Approximate center of Guizhou
+    ];
+
+    // Add markers for each city
+    cities.forEach(function(city) {
+        var marker = L.marker(city.coords).addTo(map);
+        
+        // Custom tooltip on hover
+        marker.bindTooltip(
+            '<div class="custom-tooltip">' +
+            '<strong>' + city.name + '</strong><br>' +
+            '<img src="' + city.photo + '" alt="' + city.name + ' Photo">' +
+            '</div>',
+            { 
+                permanent: false, 
+                direction: 'auto',
+                className: 'custom-tooltip'
+            }
+        );
+    });
+</script>
 
 And I like drawing
 
