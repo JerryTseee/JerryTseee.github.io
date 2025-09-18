@@ -6,12 +6,7 @@ author_profile: true
 ---
 
 # My Hobbies 🐱
-I like travelling, and record the world
-
-<div class="travel-section">
-    <div id="map"></div>
-    <p>Hover over city markers on the map to see photos!</p>
-</div>
+I like travelling, and record the world (Hover over city markers on the map to see photos!)
 
 <!-- Leaflet CSS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
