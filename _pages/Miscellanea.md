@@ -15,7 +15,7 @@ I like travelling, and record the world (Hover over city markers on the map to s
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
     #map {
-        height: 300px;
+        height: 400px;
         width: 100%;
     }
     .custom-tooltip {
@@ -58,7 +58,13 @@ I like travelling, and record the world (Hover over city markers on the map to s
         { name: 'Guilin, China', coords: [25.2743, 110.1081], photo: '/images/guilin.jpg' },
         { name: 'Beijing, China', coords: [39.9042, 116.4074], photo: '/images/BJ.jpg' },
         { name: 'Malacca, Malaysia', coords: [2.1896, 102.2501], photo: '/images/lj.jpg' },
-        { name: 'Guizhou, China', coords: [26.8154, 106.8748], photo: '/images/bz.jpg' }
+        { name: 'Guizhou, China', coords: [26.8154, 106.8748], photo: '/images/bz.jpg' },
+        { name: 'Hainan, China', coords: [19.8516, 110.3319], photo: '/images/hainan.jpg' },
+        { name: 'Macau, China', coords: [22.1987, 113.5439], photo: '/images/macau.jpg' },
+        { name: 'Shenzhen, China', coords: [22.5431, 114.0579], photo: '/images/sz.jpg' },
+        { name: 'Chengdu, China', coords: [30.6570, 104.0624], photo: '/images/cd.jpg' },
+        { name: 'Huizhou, China', coords: [23.1111, 114.4167], photo: '/images/hz.jpg' },
+        { name: 'Chaoshan, China', coords: [23.3716, 116.7173], photo: '/images/cs.jpg' },
     ];
 
     // Add markers for each city
