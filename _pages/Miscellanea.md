@@ -42,7 +42,7 @@ I like travelling, and record the world (Hover over city markers on the map to s
     // Define cities with coordinates and photo URLs
     var cities = [
         { name: 'Kuala Lumpur, Malaysia', coords: [3.1390, 101.6869], photo: '/images/kkl.jpg' },
-        { name: 'Hong Kong', coords: [22.3193, 114.1694], photo: '/images/p2.jpg' },
+        { name: 'Hong Kong, China', coords: [22.3193, 114.1694], photo: '/images/p2.jpg' },
         { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p3.jpg' },
         { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p4.jpg' },
         { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p5.jpg' },
