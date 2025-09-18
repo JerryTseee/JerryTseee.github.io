@@ -15,7 +15,7 @@ I like travelling, and record the world (Hover over city markers on the map to s
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
     #map {
-        height: 400px;
+        height: 300px;
         width: 100%;
     }
     .custom-tooltip {
@@ -41,7 +41,7 @@ I like travelling, and record the world (Hover over city markers on the map to s
 
     // Define cities with coordinates and photo URLs
     var cities = [
-        { name: 'Kuala Lumpur, Malaysia', coords: [3.1390, 101.6869], photo: '/images/p1.jpg' },
+        { name: 'Kuala Lumpur, Malaysia', coords: [3.1390, 101.6869], photo: '/images/kkl.jpg' },
         { name: 'Hong Kong', coords: [22.3193, 114.1694], photo: '/images/p2.jpg' },
         { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p3.jpg' },
         { name: 'Yunnan, China', coords: [24.9740, 101.4870], photo: '/images/p4.jpg' },
