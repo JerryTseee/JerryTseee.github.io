@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-~ last modified: 9/18/2025
+~ 最后修改: 9/19/2025
 
 # Wangpok Tse (谢宏博)
 - 你好！我是**香港大学**的本科生，正在攻读**计算机工程工学学士**和**金融工商管理学士**双学位。我对**生成式人工智能**和**3D计算机视觉**领域，特别是**数字人技术**有浓厚兴趣。希望我的研究工作能够对游戏和电影产业有所贡献。此外，我也对**量化金融**和**人工智能在投资领域中的应用**感兴趣。欢迎交流和关注我的小红书账号：JerryTsee
@@ -25,12 +25,12 @@ author_profile: true
 </div>
 
 # 工业经历
-- *2025.06 - 2025.09*, **AI开发实习生** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/)
-- *2023.12 - 2024.01*, **数据科学AI实习生** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/)
+- *2025.06 - 2025.09*, **AI开发实习生**, [**威裕环球集团, 香港**](https://bps-group.net/en/)
+- *2023.12 - 2024.01*, **数据科学AI实习生**, [**智龄生活, 香港**](https://smart-age.net/eng/)
 
 # 科研经历
-- *2025.06 - Present*, **科研助理** at the [**HKUST IGL**](https://github.com/IGL-HKUST) (Led by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/))
-- *2024.05 - 2025.04*, **科研助理** at the [**HKU CGVU Lab**](https://hku-cg.github.io/) (Led by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/))
+- *2025.06 - Present*, **科研助理**, [**香港科技大学 IGL**](https://github.com/IGL-HKUST) ([**Yuan Liu教授**](https://liuyuan-pal.github.io/))
+- *2024.05 - 2025.04*, **科研助理**, [**香港大学 CGVU Lab**](https://hku-cg.github.io/) ([**Taku Komura教授**](https://i.cs.hku.hk/~taku/))
 
 
 # 文章发表
@@ -86,7 +86,7 @@ author_profile: true
   <div style="flex: 2;">
     <strong>SentimentSage：基于RAG的股票市场新闻情感分析AI软件</strong><br>
     The platform provides deep analysis on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze financial news, extract sentiment, and generate real-time report. <br>
-    [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">webpage</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
+    [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">官方网站</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
   </div>
 </div>
 
