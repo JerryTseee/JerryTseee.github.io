@@ -71,10 +71,10 @@ author_profile: true
   </div>
   <div style="flex: 2;">
     <strong>算法股票交易策略</strong><br>
-    Python implementation of trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module. Eg:<br>
-    - Russel 2000 rebalancing strategy <br>
-    - Generative Adversarial Network for stock prediction <br>
-    - LSTM model for stock prediction <br>
+    使用Python实现的交易策略（基于规则的交易策略和基于机器学习的交易策略），包括实现模块、回测模块和可视化模块。例如：
+    - 罗素2000指数重新平衡策略 
+    - 用于股票预测的生成对抗网络 
+    - 用于股票预测的LSTM模型 
     [<a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
   </div>
 </div>
@@ -85,7 +85,7 @@ author_profile: true
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage：基于RAG的股票市场新闻情感分析AI软件</strong><br>
-    The platform provides deep analysis on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze financial news, extract sentiment, and generate real-time report. <br>
+    该平台提供对金融新闻和市场情感的深入分析。使用FinBERT等自然语言处理（NLP）模型，结合检索增强生成（RAG）技术，可以快速分析金融新闻，提取情感，并生成实时报告。<br>
     [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">官方网站</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
   </div>
 </div>
