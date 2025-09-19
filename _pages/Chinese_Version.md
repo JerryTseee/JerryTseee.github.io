@@ -57,7 +57,7 @@ author_profile: true
     Leo Ho*, Yinghao Huang*, Dafei Qin, Mingyi Shi, <strong>Wangpok Tse</strong>, Wei Liu, Junichi Yamagishi, Taku Komura<br>
     <br>
     Symposium on Computer Animation (SCA) 2025<br>
-    *Joint first author<br>
+    *共同第一作者<br>
     [<a href="https://hku-cg.github.io/interact/">官方网站</a>] [<a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">视频</a>] [<a href="https://dl.acm.org/doi/10.1145/3747871">文章</a>]
   </div>
 </div>
