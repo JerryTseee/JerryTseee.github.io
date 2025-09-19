@@ -71,10 +71,10 @@ author_profile: true
   </div>
   <div style="flex: 2;">
     <strong>算法股票交易策略</strong><br>
-    使用Python实现的交易策略（基于规则的交易策略和基于机器学习的交易策略），包括实现模块、回测模块和可视化模块。例如：
-    - 罗素2000指数重新平衡策略 
-    - 用于股票预测的生成对抗网络 
-    - 用于股票预测的LSTM模型 
+    使用Python实现的交易策略（基于规则的交易策略和基于机器学习的交易策略），包括实现模块、回测模块和可视化模块。例如：<br>
+    - 罗素2000指数重新平衡策略 <br>
+    - 用于股票预测的生成对抗网络 <br>
+    - 用于股票预测的LSTM模型 <br>
     [<a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
   </div>
 </div>
