@@ -33,7 +33,7 @@ author_profile: true
 - *2024.05 - 2025.04*, **科研助理**, [**香港大学 CGVU Lab**](https://hku-cg.github.io/) ([**Taku Komura教授**](https://i.cs.hku.hk/~taku/))
 
 
-# 文章发表
+# 文章发表 📄
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
@@ -63,7 +63,7 @@ author_profile: true
 </div>
 
 
-# 项目成果
+# 项目成果 🧑‍💻
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
@@ -90,7 +90,7 @@ author_profile: true
   </div>
 </div>
 
-# 获得荣誉 & 奖项
+# 获得荣誉 & 奖项 🎉
 - *2023 - 2024* 香港大学工学院院长奖学金 ($10000)
 - *2022 - 2023* 香港大学工学院院长奖学金 ($10000)
 - *2023* GBAI 大湾区港澳学生创新创业夏令营二等奖
