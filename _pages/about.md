@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-~ last modified: 9/18/2025
+~ last modified: 9/19/2025
 
 # Wangpok Tse (谢宏博)
 - Hi! I am an undergraduate student at the **University of Hong Kong**, pursuing two bachelor degrees, **BEng in computer engineering** and **BBA in finance**. I am interested in **Generative AI** and **3D Computer Vision**, especially in **Digital Humans**. Hope my research works can be useful in the game and movie industry. I am also interested in **Quantitative Finance** and **AI for Investment**.
