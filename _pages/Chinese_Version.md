@@ -107,3 +107,12 @@ author_profile: true
   - 2025 Robocon香港活动志愿者
   - 香港客属总会学生志愿者
   - 2023 香港大学BTP云南志愿者老师
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/guitar.jpg" alt="wolf 1" style="width: 100px; height: auto;">
+  <img src="/images/photography.jpg" alt="wolf 1" style="width: 100px; height: auto;">
+  <img src="/images/fencing.jpg" alt="wolf 1" style="width: 100px; height: auto;">
+</div>
+
+<br>
+
