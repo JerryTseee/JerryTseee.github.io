@@ -25,8 +25,8 @@ author_profile: true
 </div>
 
 # 工业经历
-- *2025.06 - 2025.09*, **AI开发实习生**, [**威裕环球集团, 香港**](https://bps-group.net/en/)
-- *2023.12 - 2024.01*, **数据科学AI实习生**, [**智龄生活, 香港**](https://smart-age.net/eng/)
+- *2025.06 - 2025.09*, **AI开发实习生**, [**BPS Global Group 威裕环球集团, 香港**](https://bps-group.net/en/)
+- *2023.12 - 2024.01*, **数据科学AI实习生**, [**SmartAge Intelligence 智龄生活, 香港**](https://smart-age.net/eng/)
 
 # 科研经历
 - *2025.06 - Present*, **科研助理**, [**香港科技大学 IGL**](https://github.com/IGL-HKUST) ([**Yuan Liu教授**](https://liuyuan-pal.github.io/))
@@ -70,8 +70,8 @@ author_profile: true
     <img src="/images/stock.jpeg" alt="Qfin" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
-    <strong>算法股票交易策略</strong><br>
-    使用Python实现的交易策略（基于规则的交易策略和基于机器学习的交易策略），包括实现模块、回测模块和可视化模块。例如：<br>
+    <strong>量化算法股票交易策略</strong><br>
+    使用Python实现的量化交易策略（基于规则的交易策略和基于机器学习的交易策略），包括实现模块、回测模块和可视化模块，仓库仍在不定时更新。例如：<br>
     - 罗素2000指数重新平衡策略 <br>
     - 用于股票预测的生成对抗网络 <br>
     - 用于股票预测的LSTM模型 <br>
@@ -85,7 +85,7 @@ author_profile: true
   </div>
   <div style="flex: 2;">
     <strong>SentimentSage：基于RAG的股票市场新闻情感分析AI软件</strong><br>
-    该平台提供对金融新闻和市场情感的深入分析。使用FinBERT等自然语言处理（NLP）模型，结合检索增强生成（RAG）技术，可以快速分析金融新闻，提取情感，并生成实时报告。<br>
+    该平台提供对金融新闻和市场情感的深入分析。使用FinBERT等自然语言处理（NLP）模型，结合检索增强生成（RAG）技术，可以快速分析金融新闻，提取市场情感，并生成实时报告，帮助市场交易决策。<br>
     [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">官方网站</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
   </div>
 </div>
@@ -107,12 +107,3 @@ author_profile: true
   - 2025 Robocon香港活动志愿者
   - 香港客属总会学生志愿者
   - 2023 香港大学BTP云南志愿者老师
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/guitar.jpg" alt="wolf 1" style="width: 100px; height: auto;">
-  <img src="/images/photography.jpg" alt="wolf 1" style="width: 100px; height: auto;">
-  <img src="/images/fencing.jpg" alt="wolf 1" style="width: 100px; height: auto;">
-</div>
-
-<br>
-
