@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Wangpok Tse">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wangpok Tse</title>
+  <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 400px;
+      width: 100%;
+    }
+    .custom-tooltip {
+      max-width: 400px;
+      background: white;
+      border: 1px solid #ccc;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+      padding: 10px;
+    }
+    .custom-tooltip img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 5px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr style="padding:0px">
+                <td style="padding:2.5%;width:63%;vertical-align:middle">
+                  <p class="name" style="text-align: center;">Wangpok Tse (谢宏博)</p>
+                  <p>
+                    Hi! I am a year 4 undergraduate student at <a href="https://www.hku.hk/">the University of Hong Kong</a>, pursuing two bachelor degrees, BEng in computer engineering and BBA in finance. I studied at <a href="https://www.heungto.edu.hk/">Heung To Middle School</a> before, and entered the college through HKDSE with score 35/42.
+                  </p>
+                  <p>
+                    2022 - 2027, B.B.A. in finance, <a href="https://www.hku.hk/">the University of Hong Kong</a><br>
+                    2022 - 2026, B.Eng. in computer engineering, <a href="https://www.hku.hk/">the University of Hong Kong</a><br>
+                    2019 - 2022, Hong Kong <a href="https://www.heungto.edu.hk/">Heung To Middle School</a><br>
+                  </p>
+                  <p style="text-align:center">
+                    <a href="mailto:crazytse@connect.hku.hk">Email</a> &nbsp;/&nbsp;
+                    <a href="https://www.linkedin.com/in/jerrytsee/">LinkedIn</a> &nbsp;/&nbsp;
+                    <a href="https://scholar.google.com/citations?hl=en&user=nKap9-EAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+                    <a href="https://twitter.com/Jerry_Tsee">Twitter</a> &nbsp;/&nbsp;
+                    <a href="https://github.com/JerryTseee">Github</a>
+                  </p>
+                </td>
+                <td style="padding:2.5%;width:37%;max-width:37%">
+                  <a href="images/me.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/me.jpg" class="hoverZoomLink"></a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:16px;width:100%;vertical-align:middle">
+                  <h2>Research</h2>
+                  <p>
+                    I'm interested in <span class="highlight">Generative AI</span> and <span class="highlight">3D Computer Vision</span>, especially in <span class="highlight">Digital Humans</span>. Hope my research works can be useful in the game and movie industry. I'm also interested in <span class="highlight">Quantitative Finance</span> and <span class="highlight">AI for Investment</span>.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr onmouseout="bog_stop()" onmouseover="bog_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id="bog_image">
+                      <video width="100%" muted autoplay loop>
+                        <source src="images/ms.jpg" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src="images/ms.jpg" width="100%">
+                  </div>
+                  <script>
+                    function bog_start() {
+                      document.getElementById('bog_image').style.opacity = "1";
+                    }
+                    function bog_stop() {
+                      document.getElementById('bog_image').style.opacity = "0";
+                    }
+                    bog_stop();
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://motionpersona25.github.io/">
+                    <span class="papertitle">MotionPersona: Characteristics-aware Locomotion Control</span>
+                  </a>
+                  <br>
+                  Mingyi Shi, Wei Liu, Jidong Mei, <strong>Wangpok Tse</strong>, Rui Chen, Xuelin Chen, Taku Komura
+                  <br>
+                  <em>Arxiv 2025</em>
+                  <br>
+                  <a href="https://motionpersona25.github.io/">[project page]</a> /
+                  <a href="https://github.com/MotionPersona25/MotionPersona_Unity">[unity demo]</a> /
+                  <a href="https://arxiv.org/abs/2506.00173">[paper]</a>
+                  <p></p>
+                  <p>
+                    A real-time character controller that generates motion animations based on specific character traits, using a diffusion-based model trained on a diverse locomotion dataset.
+                  </p>
+                </td>
+              </tr>
+              <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id="smerf_image">
+                      <video width="100%" muted autoplay loop>
+                        <source src="images/interact.jpg" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src="images/interact.jpg" width="100%">
+                  </div>
+                  <script>
+                    function smerf_start() {
+                      document.getElementById('smerf_image').style.opacity = "1";
+                    }
+                    function smerf_stop() {
+                      document.getElementById('smerf_image').style.opacity = "0";
+                    }
+                    smerf_stop();
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://hku-cg.github.io/interact/">
+                    <span class="papertitle">InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios</span>
+                  </a>
+                  <br>
+                  Leo Ho*, Yinghao Huang*, Dafei Qin, Mingyi Shi, <strong>Wangpok Tse</strong>, Wei Liu, Junichi Yamagishi, Taku Komura
+                  <br>
+                  <em>Symposium on Computer Animation (SCA) 2025</em>
+                  <br>
+                  <a href="https://hku-cg.github.io/interact/">[project page]</a> /
+                  <a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">[video]</a> /
+                  <a href="https://dl.acm.org/doi/10.1145/3747871">[paper]</a>
+                  <p></p>
+                  <p>
+                    A multi-modal motion capture dataset featuring 241 sequences of dynamic two-person interactions, capturing speech, motions, and expressions over long durations.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
+            <tbody>
+              <tr>
+                <td>
+                  <h2>Projects</h2>
+                  <p>
+                    I have also worked on some open-source projects related to <span class="highlight">AR/VR</span>, <span class="highlight">game design</span>, and <span class="highlight">quantitative finance</span>. Check them out below, and if you like them, welcome to give a star on GitHub!
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr onmouseout="stock_stop()" onmouseover="stock_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id="stock_image">
+                      <video width="100%" muted autoplay loop>
+                        <source src="images/stock.jpeg" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src="images/stock.jpeg" width="100%">
+                  </div>
+                  <script>
+                    function stock_start() {
+                      document.getElementById('stock_image').style.opacity = "1";
+                    }
+                    function stock_stop() {
+                      document.getElementById('stock_image').style.opacity = "0";
+                    }
+                    stock_stop();
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">
+                    <span class="papertitle">Algorithmic Stock Trading Strategies</span>
+                  </a>
+                  <br>
+                  <a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">[project page]</a>
+                  <p>
+                    Python implementation of trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module.<br>
+                    - Russel 2000 rebalancing strategy<br>
+                    - Generative Adversarial Network for stock prediction<br>
+                    - LSTM model for stock prediction<br>
+                  </p>
+                </td>
+              </tr>
+              <tr onmouseout="sentiment_stop()" onmouseover="sentiment_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id="sentiment_image">
+                      <video width="100%" muted autoplay loop>
+                        <source src="images/logo.png" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src="images/logo.png" width="100%">
+                  </div>
+                  <script>
+                    function sentiment_start() {
+                      document.getElementById('sentiment_image').style.opacity = "1";
+                    }
+                    function sentiment_stop() {
+                      document.getElementById('sentiment_image').style.opacity = "0";
+                    }
+                    sentiment_stop();
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">
+                    <span class="papertitle">SentimentSage: A Stock Market News Sentiment Analysis AI Software with RAG</span>
+                  </a>
+                  <br>
+                  <a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">[project page]</a> /
+                  <a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">[website demo]</a>
+                  <p></p>
+                  <p>
+                    The platform provides deep analysis on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze financial news, extract sentiment, and generate real-time reports.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
+            <tbody>
+              <tr>
+                <td>
+                  <h2>Experience</h2>
+                  <p>
+                    - 2025.06 - Present, AI Research Assistant, <a href="https://github.com/IGL-HKUST">HKUST IGL</a> (led by <a href="https://liuyuan-pal.github.io/">Prof. Yuan Liu)</a><br>
+                    - 2025.06 - 2025.09, AI Developer Intern, <a href="https://bps-group.net/en/">BPS Global Group, Hong Kong</a><br>
+                    - 2024.05 - 2025.04, AI Research Assistant, <a href="https://hku-cg.github.io/">HKU Computer Graphics and Visualization Lab</a> (led by <a href="https://i.cs.hku.hk/~taku/">Prof. Taku Komura)</a><br>
+                    - 2023.12 - 2024.01, Data Scientist AI Intern, <a href="https://smart-age.net/eng/">SmartAge Intelligence Limited, Hong Kong</a><br>
+                  </p>
+                  <p>
+                    <img src="images/hku.jpg" alt="HKU image" style="width:10%; margin-right:30px;">
+                    <img src="images/ust.png" alt="UST image" style="width:10%; margin-right:30px;">
+                    <img src="images/bps.jpg" alt="BPS image" style="width:10%; margin-right:30px;">
+                    <img src="images/smartage.webp" alt="SmartAge image" style="width:10%; margin-right:30px;">
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
+            <tbody>
+              <tr>
+                <td>
+                  <h2>Honors & Awards</h2>
+                  <p>
+                    - 2023 - 2024 HKU Dean's Award for Engineering Student Scholarship ($10000)<br>
+                    - 2022 - 2023 HKU Dean's Award for Engineering Student Scholarship ($10000)<br>
+                    - 2023 GBAI HK-Macau Student Innovation and Entrepreneurship Camp 2nd Award<br>
+                    - 2022 Hong Kong Hakka Students Scholarship ($5000)<br>
+                    - 2021 Hong Kong Hakka Students Scholarship ($5000)<br>
+                    - 2020 Hong Kong Physics Olympiad Honourable Mention Award<br>
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
+            <tbody>
+              <tr>
+                <td>
+                  <h2>"Hello World! 🐱"</h2>
+                  <p>
+                    Hey there! I’m all about chasing passions and exploring life! I love travelling around the World, snapping photos of stunning places—check out my travel map below and hover over the markers to see my shots! When I’m not traveling, I’m sketching cool stuff like wolves or Spiderman, fencing with HKU’s epee team, or strumming my guitar. I also give back to the community through volunteering:
+                  </p>
+                  <p>
+                    - 2025 SJTU “Save the Traditional Villages in China” Workshop<br>
+                    - 2025 Robocon Hong Kong student volunteer<br>
+                    - Continuing engagement with volunteers at Hong Kong Hakka Associations<br>
+                    - 2023 HKU BTP Yunnan Program summer volunteer teacher<br>
+                  </p>
+                  <p>
+                    Fun fact: I speak English, Cantonese, Mandarin, Southwestern Mandarin, and a bit of Japanese! Half HongKonger, half Sichuanese, and I lived in lovely Zhuhai for over a decade.<br>
+                  </p>
+                  <p>
+                    <img src="images/fencing.jpg" alt="Fencing image" style="width:16.7%; margin-right:20px;">
+                    <img src="images/guitar.jpg" alt="Guitar image" style="width:20%; margin-right:20px;">
+                    <img src="images/photography.jpg" alt="Photography image" style="width:20%; margin-right:20px;">
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:80%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:16px;width:100%;vertical-align:middle">
+                  <div class="travel-section">
+                    <div id="map"></div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    // Initialize the map centered on Asia
+    var map = L.map('map').setView([35.0, 105.0], 4); // Centered on Asia, zoom level 4
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Define cities with coordinates and photo URLs
+    var cities = [
+      { name: 'Kuala Lumpur, Malaysia', coords: [3.1390, 101.6869], photos: ['images/kkl.jpg'] },
+      { name: 'Hong Kong, China', coords: [22.3193, 114.1694], photos: ['images/p2.jpg'] },
+      { name: 'Yunnan, China', coords: [24.9740, 101.4870], photos: ['images/p3.jpg', 'images/p4.jpg', 'images/p5.jpg'] },
+      { name: 'Guangzhou, China', coords: [23.1291, 113.2644], photos: ['images/p8.jpg'] },
+      { name: 'Taipei, Taiwan', coords: [25.0320, 121.5654], photos: ['images/p10.jpg', 'images/p11.jpg'] },
+      { name: 'Fujian, China', coords: [26.0800, 119.2960], photos: ['images/p12.jpg'] },
+      { name: 'Kaohsiung, Taiwan', coords: [22.6273, 120.3014], photos: ['images/p13.jpg'] },
+      { name: 'Chongqing, China', coords: [29.5628, 106.5528], photos: ['images/p14.jpg'] },
+      { name: 'Nanjing, China', coords: [32.0603, 118.7969], photos: ['images/p15.jpg'] },
+      { name: 'Shanghai, China', coords: [31.2304, 121.4737], photos: ['images/sh.jpg'] },
+      { name: 'Maldives', coords: [3.2028, 73.2207], photos: ['images/maldives.jpg'] },
+      { name: 'Guilin, China', coords: [25.2743, 110.1081], photos: ['images/guilin.jpg'] },
+      { name: 'Beijing, China', coords: [39.9042, 116.4074], photos: ['images/BJ.jpg'] },
+      { name: 'Malacca, Malaysia', coords: [2.1896, 102.2501], photos: ['images/lj.jpg'] },
+      { name: 'Guizhou, China', coords: [26.8154, 106.8748], photos: ['images/bz.jpg'] },
+      { name: 'Hainan, China', coords: [19.8516, 110.3319], photos: ['images/hainan.jpg'] },
+      { name: 'Macau, China', coords: [22.1987, 113.5439], photos: ['images/macau.jpg'] },
+      { name: 'Shenzhen, China', coords: [22.5431, 114.0579], photos: ['images/sz.jpg'] },
+      { name: 'Chengdu, China', coords: [30.6570, 104.0624], photos: ['images/cd.jpg'] },
+      { name: 'Huizhou, China', coords: [23.1111, 114.4167], photos: ['images/hz.jpg'] },
+      { name: 'Chaoshan, China', coords: [23.3716, 116.7173], photos: ['images/cs.jpg'] }
+    ];
+
+    // Add markers for each city
+    cities.forEach(function(city) {
+      var marker = L.marker(city.coords).addTo(map);
+      // Create tooltip with all photos for the city
+      var tooltipContent = '<div class="custom-tooltip"><strong>' + city.name + '</strong><br>';
+      city.photos.forEach(function(photo) {
+        tooltipContent += '<img src="' + photo + '" alt="' + city.name + ' Photo">';
+      });
+      tooltipContent += '</div>';
+      marker.bindTooltip(tooltipContent, {
+        permanent: false,
+        direction: 'auto',
+        className: 'custom-tooltip'
+      });
+    });
+  </script>
+</body>
+</html>
