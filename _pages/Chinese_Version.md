@@ -6,4 +6,94 @@ author_profile: true
 ---
 
 
-still building
+~ last modified: 9/18/2025
+
+# Wangpok Tse (谢宏博)
+- 你好！我是**香港大学**的本科生，正在攻读**计算机工程工学学士**和**金融工商管理学士**双学位。我对**生成式人工智能**和**3D计算机视觉**领域，特别是**数字人技术**有浓厚兴趣。希望我的研究工作能够对游戏和电影产业有所贡献。此外，我也对**量化金融**和**人工智能在投资领域中的应用**感兴趣。欢迎交流和关注我的小红书账号：JerryTsee
+
+
+# 教育经历
+- *2022 - 2027*, 金融学 工商管理学士, 香港大学 (双学位)
+- *2022 - 2026*, 计算机工程 工学学士, 香港大学 (双学位)
+- *2019 - 2022*, 香港九龙塘香岛中学
+
+<div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 15px; margin-bottom: 10px;">
+  <img src="/images/bs.png" alt="HKU Logo" style="height: 50px; object-fit: contain;">
+  <img src="/images/eee.png" alt="HKU Logo" style="height: 50px; object-fit: contain;">
+  <img src="/images/hku.jpg" alt="HKU Logo" style="height: 50px; object-fit: contain;">
+  <img src="/images/heungto.png" alt="Heung To Middle School Logo" style="height: 50px; object-fit: contain;">
+</div>
+
+# 工业经历
+- *2025.06 - 2025.09*, **AI开发实习生** at the [**BPS Global Group, Hong Kong**](https://bps-group.net/en/)
+- *2023.12 - 2024.01*, **数据科学AI实习生** at the [**SmartAge Intelligence Limited, Hong Kong**](https://smart-age.net/eng/)
+
+# 科研经历
+- *2025.06 - Present*, **科研助理** at the [**HKUST IGL**](https://github.com/IGL-HKUST) (Led by [**Prof. Yuan Liu**](https://liuyuan-pal.github.io/))
+- *2024.05 - 2025.04*, **科研助理** at the [**HKU CGVU Lab**](https://hku-cg.github.io/) (Led by [**Prof. Taku Komura**](https://i.cs.hku.hk/~taku/))
+
+
+# 文章发表
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
+    <img src="/images/ms.jpg" alt="moper" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
+  </div>
+  <div style="flex: 2;">
+    <strong>MotionPersona: Characteristics-aware Locomotion Control</strong><br>
+    Mingyi Shi, Wei Liu, Jidong Mei, <strong>Wangpok Tse</strong>, Rui Chen, Xuelin Chen, Taku Komura<br>
+    <br>
+    Arxiv Preprint 2025<br>
+    [<a href="https://motionpersona25.github.io/">官方网站</a>] [<a href="https://github.com/MotionPersona25/MotionPersona_Unity">unity demo</a>] [<a href="https://arxiv.org/abs/2506.00173">文章</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
+    <img src="/images/interact.jpg" alt="InterAct Dataset" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
+  </div>
+  <div style="flex: 2;">
+    <strong>InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios</strong><br>
+    Leo Ho*, Yinghao Huang*, Dafei Qin, Mingyi Shi, <strong>Wangpok Tse</strong>, Wei Liu, Junichi Yamagishi, Taku Komura<br>
+    <br>
+    Symposium on Computer Animation (SCA) 2025<br>
+    *Joint first author<br>
+    [<a href="https://hku-cg.github.io/interact/">官方网站</a>] [<a href="https://www.youtube.com/watch?v=CYY6ghLdXJY">视频</a>] [<a href="https://dl.acm.org/doi/10.1145/3747871">文章</a>]
+  </div>
+</div>
+
+
+# 项目成果
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
+    <img src="/images/stock.jpeg" alt="Qfin" style="width: 80%; border: 1px solid #eee; border-radius: 4px;">
+  </div>
+  <div style="flex: 2;">
+    <strong>算法股票交易策略</strong><br>
+    Python implementation of trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module. Eg:<br>
+    - Russel 2000 rebalancing strategy <br>
+    - Generative Adversarial Network for stock prediction <br>
+    - LSTM model for stock prediction <br>
+    [<a href="https://github.com/JerryTseee/Quantitative_Finance_Trading_Strategies.git">GitHub</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0.5; margin-right: 30px; min-width: 250px;">
+    <img src="/images/logo.png" alt="Qfin" style="width: 70%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+  </div>
+  <div style="flex: 2;">
+    <strong>SentimentSage：基于RAG的股票市场新闻情感分析AI软件</strong><br>
+    The platform provides deep analysis on financial news and market sentiment. Using Natural Language Processing (NLP) models like FinBERT, combined with Retrieval-Augmented Generation (RAG) technology, it can quickly analyze financial news, extract sentiment, and generate real-time report. <br>
+    [<a href="https://sentimentsage-marketnewssentimentanalysiswithrag-nrgktn4pk5dvw.streamlit.app/">webpage</a>] [<a href="https://github.com/JerryTseee/SentimentSage-market_news_sentiment_analysis_with_RAG.git">GitHub</a>]
+  </div>
+</div>
+
+# 获得荣誉 & 奖项
+- *2023 - 2024* 香港大学工学院院长奖学金 ($10000)
+- *2022 - 2023* 香港大学工学院院长奖学金 ($10000)
+- *2023* GBAI 大湾区港澳学生创新创业夏令营二等奖
+- *2022* 香港客家学生奖学金 ($5000)
+- *2021* 香港客家学生奖学金 ($5000)
+- *2020* 香港物理奥林匹克荣誉奖
