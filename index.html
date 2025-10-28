@@ -270,6 +270,42 @@
                   </p>
                 </td>
               </tr>
+              <tr onmouseout="stock_stop()" onmouseover="stock_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id="cartoon_image">
+                      <video width="100%" muted autoplay loop>
+                        <source src="images/cartoon.jpg" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src="images/cartoon.jpg" width="100%">
+                  </div>
+                  <script>
+                    function stock_start() {
+                      document.getElementById('stock_image').style.opacity = "1";
+                    }
+                    function stock_stop() {
+                      document.getElementById('stock_image').style.opacity = "0";
+                    }
+                    stock_stop();
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://github.com/JerryTseee/Synthetic-Anime-Face-Generation-Using-Denoising-Diffusion-Probabilistic-Models.git">
+                    <span class="papertitle">Synthetic Anime Face Generation Using Denoising Diffusion Probabilistic Models</span>
+                  </a>
+                  <br>
+                  <a href="https://github.com/JerryTseee/Synthetic-Anime-Face-Generation-Using-Denoising-Diffusion-Probabilistic-Models.git">[project page]</a>
+                  <a href="images/cartoon_report.pdf">[project report]</a>
+                  <p>
+                    Python implementation of trading strategies (Rule-Based Trading Strategies & Machine Learning-Based Strategies), including implementation module, backtesting module, visualization module.<br>
+                    - Russel 2000 rebalancing strategy<br>
+                    - Generative Adversarial Network for stock prediction<br>
+                    - LSTM model for stock prediction, etc.<br>
+                  </p>
+                </td>
+              </tr>
             </tbody>
           </table>
           <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
