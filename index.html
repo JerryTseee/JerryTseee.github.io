@@ -84,7 +84,6 @@
                     <a href="https://scholar.google.com/citations?hl=en&user=nKap9-EAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
                     <a href="https://github.com/JerryTseee">Github</a> &nbsp;/&nbsp;
                     <a href="#">CV</a>
-                    <!-- <a href="#" onclick="showCourses()">Courses</a> -->
                   </p>
                 </td>
                 <td style="padding:2.5%;width:37%;max-width:37%">
@@ -345,7 +344,7 @@
                 <td>
                   <h2>"Hello World! 🐱"</h2>
                   <p>
-                    Hey there! I like adventure and exploring new things! I love <span class="highlight">travelling</span> around the World, taking photos of those amazing places — check out my travel map below and hover over the markers to see my shots! When I’m not traveling, I’m <span class="highlight">drawing</span> or strumming my <span class="highlight">little guitar</span>. And I like fencing, I was a member of <span class="highlight">HKU fencing team.</span>
+                    Hey there! I like adventure and exploring new things! I love <span class="highlight">travelling</span> around the World, taking photos of those amazing places! Also, I like <span class="highlight">drawing</span> and strumming my <span class="highlight">little guitar</span>. And I like fencing, I was a member of <span class="highlight">HKU fencing team.</span>
                   </p>
                   <p>
                     Fun facts: I can speak English, Cantonese, Mandarin, and Southwestern Mandarin. I'm half HongKonger, half Sichuanese, and I lived in Zhuhai (a beautiful small city) when I was a child.<br>
@@ -359,145 +358,9 @@
               </tr>
             </tbody>
           </table>
-          <table style="width:80%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-            <tbody>
-              <tr>
-                <td style="padding:16px;width:100%;vertical-align:middle">
-                  <div class="travel-section">
-                    <div id="map"></div>
-                  </div>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-          <!-- Courses Modal -->
-          <div id="coursesModal" class="modal">
-            <div class="modal-content">
-              <span class="close" onclick="closeCourses()">&times;</span>
-              <h2>Courses @HKU</h2>
-              <ul>
-                <p>2025-2026 (66 credits)</p>
-                <li>ELEC4547 Emerging technology for VR/AR (VR/AR 技术)</li>
-                <li>ELEC4542 Deep Learning for Computer Vision (计算机视觉深度学习)</li>
-                <li>ELEC4848 Final Year Project (毕业设计)</li>
-                <li>ELEC3342 Digital System Design (数字系统设计)</li>
-                <li>ELEC3442 Embedded Systems (嵌入式系统)</li>
-                <li>COMP3360 Character Animation (计算机角色动画)</li>
-                <li>FINA4350 NLP in finance (金融自然语言处理)</li>
-                <li>FINA2312 Advanced Corporate Finance (高级公司金融)</li>
-                <li>ACCT2105 Management Accounting (管理会计)</li>
-                <li>CAES9541 English for Engineering Student (英语)</li>
-                <p>2024-2025 (60 credits)</p>
-                <li>COMP3230 Operating System (计算机操作系统)</li>
-                <li>COMP3297 Software Engineering (软件工程)</li>
-                <li>COMP3278 Database Systems (数据库系统)</li>
-                <li>COMP3270 Artificial Intelligence (人工智能)</li>
-                <li>COMP3234 Computer Communication and Networks (计算机通讯网络)</li>
-                <li>ELEC3844 Modern Engineering Society (现代工程)</li>
-                <li>ELEC3249 Machine Intelligence and Pattern Recognition (机器学习)</li>
-                <li>ELEC3848 Integrated Design Project (工程设计)</li>
-                <li>ELEC3841 Internship (实习)</li>
-                <li>CENG9001 Chinese for Engineering Student (中文)</li>
-                <li>FINA2320 Investment Portfolio Analysis (投资组合分析)</li>
-                <p>2023-2024 (72 credits)</p>
-                <li>COMP2121 Discrete Math (离散数学)</li>
-                <li>COMP2119 Data structure and Algorithm (数据结构和算法)</li>
-                <li>ELEC2346 Electric Circuit Theory (电路原理)</li>
-                <li>ELEC2441 Computer Organization (计算机组织)</li>
-                <li>ELEC2844 Probability System Design (概率系统设计)</li>
-                <li>ELEC2840 Engineering Training (工程训练)</li>
-                <li>IIMT2601 Managment and Information System (信息系统管理)</li>
-                <li>FINA1310 Corporate Finance (公司金融)</li>
-                <li>ECON1210 Micro Economics (微观经济)</li>
-                <li>ECON1220 Macro Economics (宏观经济)</li>
-                <li>ENGG1340 Computer Programming 2 (计算机程序语言2)</li>
-                <li>CCHU9058 Beyond the Concrete Jungle (大自然)</li>
-                <p>2022-2023 (72 credits)</p>
-                <li>ENGG1300 Fundamental Mechanics (力学)</li>
-                <li>ENGG1310 Electricity and Electronics (电子电力学)</li>
-                <li>ENGG1320 Engineers in Modern World (现代工程师)</li>
-                <li>ENGG1330 Computer Programming 1 (计算机程序语言1)</li>
-                <li>ENGG1350 Thermofluid Mechanics (流体力学)</li>
-                <li>MATH1851 Calculus and Differential Equations (微积分)</li>
-                <li>MATH1853 Linear Algebra, Statistics, Probability (线性代数, 统计, 概率学)</li>
-                <li>ACCT1101 Financial Accounting (金融会计)</li>
-                <li>CAES1000 English for University (英语)</li>
-                <li>CCST9038 Science and Science Fiction (科幻小说)</li>
-                <li>CCCH9006 China Modernization (中国现代化)</li>
-                <li>CCGL9042 Evolution of Civilization (文明进化)</li>
-              </ul>
-            </div>
-          </div>
         </td>
       </tr>
     </tbody>
   </table>
-  <!-- Leaflet JS -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script>
-    // Initialize the map centered on Asia
-    var map = L.map('map').setView([35.0, 105.0], 4); // Centered on Asia, zoom level 4
-
-    // Add OpenStreetMap tiles
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
-
-    // Define cities with coordinates and photo URLs
-    var cities = [
-      { name: 'Kuala Lumpur, Malaysia', coords: [3.1390, 101.6869], photos: ['images/kkl.jpg'] },
-      { name: 'Hong Kong, China', coords: [22.3193, 114.1694], photos: ['images/p2.jpg'] },
-      { name: 'Yunnan, China', coords: [24.9740, 101.4870], photos: ['images/p3.jpg', 'images/p4.jpg', 'images/p5.jpg'] },
-      { name: 'Guangzhou, China', coords: [23.1291, 113.2644], photos: ['images/p8.jpg'] },
-      { name: 'Taipei, Taiwan', coords: [25.0320, 121.5654], photos: ['images/p10.jpg', 'images/p11.jpg'] },
-      { name: 'Fujian, China', coords: [26.0800, 119.2960], photos: ['images/p12.jpg'] },
-      { name: 'Kaohsiung, Taiwan', coords: [22.6273, 120.3014], photos: ['images/p13.jpg'] },
-      { name: 'Chongqing, China', coords: [29.5628, 106.5528], photos: ['images/p14.jpg'] },
-      { name: 'Nanjing, China', coords: [32.0603, 118.7969], photos: ['images/p15.jpg'] },
-      { name: 'Shanghai, China', coords: [31.2304, 121.4737], photos: ['images/sh.jpg'] },
-      { name: 'Maldives', coords: [3.2028, 73.2207], photos: ['images/maldives.jpg'] },
-      { name: 'Guilin, China', coords: [25.2743, 110.1081], photos: ['images/guilin.jpg'] },
-      { name: 'Beijing, China', coords: [39.9042, 116.4074], photos: ['images/BJ.jpg'] },
-      { name: 'Malacca, Malaysia', coords: [2.1896, 102.2501], photos: ['images/lj.jpg'] },
-      { name: 'Guizhou, China', coords: [26.8154, 106.8748], photos: ['images/bz.jpg'] },
-      { name: 'Hainan, China', coords: [19.8516, 110.3319], photos: ['images/hainan.jpg'] },
-      { name: 'Macau, China', coords: [22.1987, 113.5439], photos: ['images/macau.jpg'] },
-      { name: 'Shenzhen, China', coords: [22.5431, 114.0579], photos: ['images/sz.jpg'] },
-      { name: 'Chengdu, China', coords: [30.6570, 104.0624], photos: ['images/cd.jpg'] },
-      { name: 'Huizhou, China', coords: [23.1111, 114.4167], photos: ['images/hz.jpg'] },
-      { name: 'Chaoshan, China', coords: [23.3716, 116.7173], photos: ['images/cs.jpg'] }
-    ];
-
-    // Add markers for each city
-    cities.forEach(function(city) {
-      var marker = L.marker(city.coords).addTo(map);
-      // Create tooltip with all photos for the city
-      var tooltipContent = '<div class="custom-tooltip"><strong>' + city.name + '</strong><br>';
-      city.photos.forEach(function(photo) {
-        tooltipContent += '<img src="' + photo + '" alt="' + city.name + ' Photo">';
-      });
-      tooltipContent += '</div>';
-      marker.bindTooltip(tooltipContent, {
-        permanent: false,
-        direction: 'auto',
-        className: 'custom-tooltip'
-      });
-    });
-
-    // JavaScript for Courses Modal
-    function showCourses() {
-      document.getElementById('coursesModal').style.display = 'block';
-    }
-    function closeCourses() {
-      document.getElementById('coursesModal').style.display = 'none';
-    }
-    // Close modal when clicking outside
-    window.onclick = function(event) {
-      var modal = document.getElementById('coursesModal');
-      if (event.target == modal) {
-        modal.style.display = 'none';
-      }
-    }
-  </script>
 </body>
 </html>
