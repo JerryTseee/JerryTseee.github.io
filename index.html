@@ -233,6 +233,59 @@
               </tr>
             </tbody>
           </table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:16px;width:100%;vertical-align:middle">
+                  <h2>Projects</h2>
+                  <p>
+                    Here are some of my open source projects and contributions in artificial intelligence and their applications across various domains.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr onmouseout="bog_stop()" onmouseover="bog_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id="bog_image">
+                      <video width="100%" muted autoplay loop>
+                        <source src="images/motionpersona_no.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src="images/ms.jpg" width="100%">
+                  </div>
+                  <script>
+                    function bog_start() {
+                      document.getElementById('bog_image').style.opacity = "1";
+                    }
+                    function bog_stop() {
+                      document.getElementById('bog_image').style.opacity = "0";
+                    }
+                    bog_stop();
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://github.com/AfterJourney00/mmd_to_smpl.git">
+                    <span class="papertitle">Animation Synthesis from MikuMikuDance to SMPL</span>
+                  </a>
+                  <br>
+                  Chengfeng Zhao, Junbo Qi, <strong>Wangpok Tse</strong>, Zekai Gu
+                  <br>
+                  <em>During my research internship at HKUST</em>
+                  <br>
+                  <a href="https://github.com/AfterJourney00/mmd_to_smpl.git">[github]</a>
+                  <p></p>
+                  <p>
+                    This is an automated workflow for composing, rendering, and retargeting any humanoid MikuMikuDance (MMD) characters driven by any MMD animations in any blender scenes.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
             <tbody>
               <tr>
