@@ -48,37 +48,6 @@
     }
 
     
-    /* Add vertical lines */
-    .vertical-line-left,
-    .vertical-line-right {
-      position: fixed;
-      top: 0;
-      width: 1px;
-      height: 100vh;
-      background-color: #e0e0e0;
-      z-index: 1000;
-      pointer-events: none; /* Allows clicking through the line */
-    }
-    
-    .vertical-line-left {
-      left: 150px;
-    }
-    
-    .vertical-line-right {
-      right: 150px;
-    }
-    
-    /* For mobile devices, adjust line positions */
-    @media (max-width: 768px) {
-      .vertical-line-left {
-        left: 10px;
-      }
-      
-      .vertical-line-right {
-        right: 10px;
-      }
-    }
-    
     #map {
       height: 400px;
       width: 100%;
