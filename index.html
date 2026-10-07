@@ -9,9 +9,45 @@
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  
+  
   <style>
+    /* 页面灰色背景 */
+    body {
+      background-color: #e8e8e8;
+      margin: 0;
+      padding: 20px 0;
+    }
+    
+    /* 模块卡片统一样式 */
+    .module-card {
+      background: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(0, 0, 0, 0.02);
+      padding: 24px 28px;
+      margin-bottom: 32px;
+      max-width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+      transition: box-shadow 0.2s ease;
+    }
+    
+    .module-card:hover {
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12), 0 0 0 1px rgba(0, 0, 0, 0.04);
+    }
+    
+    /* 条目间距 */
+    .entry-spacer {
+      height: 28px;
+    }
+    
+    /* 移动端适配 */
+    @media (max-width: 768px) {
+      body { padding: 12px 0; }
+      .module-card { padding: 16px; }
+    }
 
-
+    
     /* Add vertical lines */
     .vertical-line-left,
     .vertical-line-right {
@@ -113,7 +149,7 @@
 </head>
 <body>
 
-  
+  <div class="module-card">
   <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr style="padding:0px">
@@ -139,10 +175,11 @@
               </tr>
             </tbody>
           </table>
+        </div>
 
 
           
-          
+          <div class="module-card">
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               <tr>
@@ -155,7 +192,8 @@
               </tr>
             </tbody>
           </table>
-          
+
+
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               
@@ -196,7 +234,7 @@
                 </td>
               </tr>
               
-              
+
               <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
                 <td style="padding:16px;width:20%;vertical-align:middle">
                   <div class="one">
@@ -237,7 +275,10 @@
               
             </tbody>
           </table>
-          
+          </div>
+
+
+          <div class="module-card">
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               <tr>
@@ -250,7 +291,8 @@
               </tr>
             </tbody>
           </table>
-          
+
+      
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               
@@ -290,11 +332,13 @@
               </tr>
 
 
-
               
             </tbody>
           </table>
-          
+          </div>
+
+
+          <div class="module-card">
           <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
             <tbody>
               <tr>
@@ -414,11 +458,12 @@
               </tr>
             </tbody>
           </table>
+          </div>
 
 
 
 
-
+          <div class="module-card">
           <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
             <tbody>
               <tr>
@@ -472,11 +517,11 @@
               </tr>
             </tbody>
           </table>
+          </div>
 
-
           
           
-          
+          <div class="module-card">
           <table style="width:100%;margin:0 auto;border:0;border-spacing:0;padding:16px;">
             <tbody>
               <tr>
@@ -494,7 +539,10 @@
               </tr>
             </tbody>
           </table>
+          </div>
 
+  
+          <div class="module-card">
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               <tr>
@@ -507,6 +555,7 @@
               </tr>
             </tbody>
           </table>
+          </div>
           
         </td>
       </tr>
