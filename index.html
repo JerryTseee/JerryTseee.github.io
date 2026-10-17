@@ -525,12 +525,50 @@
           </table>
 
 
+          <!-- Number of Viewers (HITS.sh) -->
           <div style="text-align:center; margin-top: 20px; font-size: small; color: #666;">
-            Number of Viewers:
-            <a href="https://librecounter.org/referer/show" target="_blank">
-              <img src="https://librecounter.org/counter.svg" referrerpolicy="unsafe-url" alt="Number of Viewers" style="vertical-align: middle; height: 20px;"/>
-            </a>
+            Number of Viewers: <span id="viewer-count">Loading...</span>
           </div>
+
+          <script>
+            (function () {
+              const counterId = 'viewer-count';
+              // 用你自己的域名作为标识，避免和别人冲突
+              const projectId = 'wangpok-tse-portfolio';
+              const cacheKey = 'viewer_count_' + projectId;
+              const cacheTimeKey = 'viewer_count_time_' + projectId;
+              const now = Date.now();
+
+              // 缓存 5 分钟，避免频繁请求
+              const cached = localStorage.getItem(cacheKey);
+              const cachedTime = localStorage.getItem(cacheTimeKey);
+              if (cached && cachedTime && (now - parseInt(cachedTime) < 5 * 60 * 1000)) {
+                document.getElementById(counterId).textContent = cached;
+                return;
+              }
+
+              // HITS.sh 计数接口
+              fetch('https://hits.sh/' + projectId + '.svg?action=view&count=1')
+                .then(r => r.text())
+                .then(svg => {
+                  // 从 SVG 里提取数字（修复版：取所有连续数字中的最后一个）
+                  const numbers = svg.match(/\d+/g);
+                  const match = numbers ? [null, numbers[numbers.length - 1]] : null;
+                  if (match && match[1]) {
+                    const count = match[1];
+                    document.getElementById(counterId).textContent = count;
+                    localStorage.setItem(cacheKey, count);
+                    localStorage.setItem(cacheTimeKey, now.toString());
+                  } else {
+                    document.getElementById(counterId).textContent = cached || '—';
+                  }
+                })
+                .catch(err => {
+                  console.warn('Viewer counter failed:', err);
+                  document.getElementById(counterId).textContent = cached || '—';
+                });
+            })();
+          </script>
 
 
 </body>
