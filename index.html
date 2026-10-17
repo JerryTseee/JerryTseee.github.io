@@ -525,5 +525,73 @@
           </table>
 
 
+
+            <div style="text-align:center; margin-top: 20px; font-size: small; color: #666;">
+              Number of Page Viewers: <span id="visit-counter">Loading...</span>
+            </div>
+            
+            <script>
+              // 使用 CounterAPI 的免费计数器（无需注册，但可能有限制）
+              // 我们使用一个自定义的命名空间，避免与其他人冲突
+              (function() {
+                const namespace = 'wangpok-tse-portfolio'; // 可自定义
+                const key = 'visits';
+                const counterId = 'visit-counter';
+            
+                // 尝试从缓存中读取上次的计数（避免频繁请求）
+                const cachedCount = localStorage.getItem('visit_count_' + namespace + '_' + key);
+                const cachedTime = localStorage.getItem('visit_count_time_' + namespace + '_' + key);
+                const now = Date.now();
+            
+                // 如果缓存有效（例如5分钟内），直接显示缓存
+                if (cachedCount && cachedTime && (now - parseInt(cachedTime) < 5 * 60 * 1000)) {
+                  document.getElementById(counterId).textContent = cachedCount;
+                  return;
+                }
+            
+                // 否则请求计数器 API
+                fetch(`https://api.counterapi.dev/v1/${namespace}/${key}/up`)
+                  .then(response => response.json())
+                  .then(data => {
+                    // CounterAPI 返回格式: { count: 123, ... }
+                    if (data && data.count !== undefined) {
+                      const count = data.count;
+                      document.getElementById(counterId).textContent = count;
+                      // 缓存结果
+                      localStorage.setItem('visit_count_' + namespace + '_' + key, count);
+                      localStorage.setItem('visit_count_time_' + namespace + '_' + key, now.toString());
+                    } else {
+                      // 如果返回异常，尝试获取当前计数
+                      return fetch(`https://api.counterapi.dev/v1/${namespace}/${key}`);
+                    }
+                  })
+                  .then(response => {
+                    if (response && response.json) {
+                      return response.json();
+                    }
+                  })
+                  .then(data => {
+                    if (data && data.count !== undefined) {
+                      const count = data.count;
+                      document.getElementById(counterId).textContent = count;
+                      localStorage.setItem('visit_count_' + namespace + '_' + key, count);
+                      localStorage.setItem('visit_count_time_' + namespace + '_' + key, now.toString());
+                    } else {
+                      document.getElementById(counterId).textContent = 'N/A';
+                    }
+                  })
+                  .catch(error => {
+                    console.warn('访问计数器加载失败:', error);
+                    // 如果API失败，尝试显示缓存或默认值
+                    if (cachedCount) {
+                      document.getElementById(counterId).textContent = cachedCount;
+                    } else {
+                      document.getElementById(counterId).textContent = '—';
+                    }
+                  });
+              })();
+            </script>
+
+
 </body>
 </html>
